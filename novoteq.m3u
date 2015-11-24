@@ -3,8 +3,22 @@
 http://0.0.0.0:1234
 #EXTM3U
 
-#EXTINF:-1,NRJ TV-sd(Music)
-http://rtmp.infomaniak.ch:1935/livecast/energytv/HasBahCa.m3u8
+#EXTINF:-1, Weather Network Canada
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1, TSC The shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+#EXTINF:-1, CPAC
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8 
+#EXTINF:-1, TV (French)
+rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/vtv.html
+#EXTINF:-1, MA TV (French)
+rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com//FlashMediaPlayb/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
+#EXTINF:-1, HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:-1, The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1, University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 #EXTINF:0,Updated:8/9-CNBC NEWS
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
 #EXTINF:0,Updated:8/3-NASA TV
