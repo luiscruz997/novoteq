@@ -29,8 +29,6 @@ http://motorsport.hopto.org:8080/
 http://ec.playmedia.fr/om5-tv/live/HasBahCa.m3u8
 #EXTINF:-1, Party Tv HD (Music)
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:-1,TVM Est Parisien-sd
-http://rtmp.infomaniak.ch/livecast/cineplume/TVMEstParisien.m3u8
 #EXTINF:-1,VOX Music HD
 rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:-1, Rock Tv HD (Music)
