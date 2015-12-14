@@ -4,9 +4,9 @@ http://0.0.0.0:1234
 #EXTM3U
 
 
-#EXTINF:0,BT SPORT 1 HD
+#EXTINF:-1,BT SPORT 1 HD
 http://02e4.vp9.tv/chn/btsu1/v.m3u8
-#EXTINF:0, BT SPORT 2 HD
+#EXTINF:-1,BT SPORT 2 HD
 http://02e4.vp9.tv/chn/btsu2/v.m3u8
 #EXTINF:-1,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
