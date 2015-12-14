@@ -3,8 +3,7 @@
 http://0.0.0.0:1234
 #EXTM3U
 
-#EXTINF:-1, TSC The shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+
 #EXTINF:0,BT SPORT 1 HD
 http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #EXTINF:0, BT SPORT 2 HD
@@ -19,10 +18,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
  http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
 #EXTINF:-1,beIN SPORTS 3HD EN
  http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
-#EXTINF:-1,BT SPORT 1 HD
- http://02e4.vp9.tv/chn/btsu1/v.m3u8
- #EXTINF:-1,BT SPORT 2 HD
- http://02e4.vp9.tv/chn/btsu2/v.m3u8
 #EXTINF:-1, SUPER SPORT 2 HD
 http://skyiptv.ddns.net:8000/live/edi/edi/359.m3u8
 #EXTINF:-1,SUPER SPORT 3 HD
@@ -37,11 +32,11 @@ http://skyiptv.ddns.net:8000/live/edi/edi/358.m3u8
  http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1, RUS MATTS
  http://4.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:-1, FUTBOL UKR
+#EXTINF:-1, FUTBOL UKR 1
  http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1, FUTBOL UKR
+#EXTINF:-1, FUTBOL UKR 2
  http://4.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1, FUTBOL UKR
+#EXTINF:-1, FUTBOL UKR 3
  http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
 #EXTINF:-1, Weather Network Canada
@@ -62,15 +57,6 @@ http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?
 #EXTINF:-1, METRO TV (French)
 rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html 
 
-#EXTINF:-1, TV (French)
-rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/vtv.html 
-
-#EXTINF:-1, SPORTSNET 360HD CANADA HD
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:-1, CPAC
-http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8 
-#EXTINF:-1, MA TV (French)
-rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com//FlashMediaPlayb/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
 #EXTINF:-1, HSN
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
 #EXTINF:-1, The Florida Channel
@@ -198,7 +184,8 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
 
 
 
-
+#EXTINF:-1,TSC The shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 #EXTINF:-1, BFM Business Francais
 http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/04.m3u8
 #EXTINF:-1, BFM TV Francais
