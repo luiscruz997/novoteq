@@ -34,10 +34,8 @@ http://skyiptv.ddns.net:8000/live/edi/edi/358.m3u8
  http://4.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1, FUTBOL UKR 3
  http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-
 #EXTINF:-1, Weather Network Canada
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-
 #EXTINF:-1, Weather Network Canada
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8 
 
@@ -97,12 +95,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 http://xrxs.net/video/live-p12losa-1164.m3u8
 #EXTINF:-1,USA-BASKET UNI.(Oregon)
 http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1, CPAC1
-http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 #EXTINF:-1,Cpac2
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_800_av-p.m3u8
-#EXTINF:-1,CANADA SENATE LIVE
-http://bit.do/3C7k
 #EXTINF:0,Updated:7/27-HSN 1
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
 #EXTINF:0,Updated:7/27-HSN 2
