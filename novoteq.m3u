@@ -209,82 +209,29 @@ http://0.0.0.0:1234
 http://iphone-streaming.ustream.tv/uhls/12020729/streams/live/iphone/playlist.m3u8
 #EXTINF:0,[COLOR red]SHALOM TV[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/12020729/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, France 24
-rtmp://myafricanmega4.tulix.tv:1935/map-france24/map-france24roku.stream
-
-
-
-
-
-
-
-
-
-#EXTINF:0,france24roku
-http://162.212.176.83:8080/map-france24roku.stream.m3u8
-#EXTINF:0,nollywood-roku
-http://162.212.176.83:8080/map-nollywood-roku.m3u8
-#EXTINF:0,equinoxe
-http://162.212.176.83:8080/map-equinoxe.m3u8
-#EXTINF:0,telesahel
-http://162.212.176.83:8080/map-telesahel.m3u8
-#EXTINF:0,tvt
-http://162.212.176.83:8080/map-tvt.stream.m3u8
-#EXTINF:0,tvs1tv
-http://162.212.176.83:8080/tvs1tv.stream.m3u8
-#EXTINF:-1,telecongo
-http://162.212.176.83:8080/map-telecongo.stream.m3u8
-#EXTINF:0,ortbroku
-http://162.212.176.83:8080/map-ortbroku.stream.m3u8
-#EXTINF:0,rtgroku
-http://162.212.176.83:8080/map-rtgroku.stream.m3u8
-#EXTINF:0,rti1roku
-http://162.212.176.83:8080/map-rti1roku.m3u8
-#EXTINF:0,rtncroku
-http://162.212.176.83:8080/map-rtncroku.m3u8
-#EXTINF:-1,tfmroku
-http://162.212.176.83:8080/map-tfmroku.m3u8
-#EXTINF:-1,Voxafrica
-http://95.81.165.21/10360/index.m3u8
- 
-#EXTINF:-1,rtgatv
-http://162.212.176.83:8080/rtgatv.stream.m3u8
-#EXTINF:0,africableroku 
-http://162.212.176.83:8080/map-africableroku.stream.m3u8
-#EXTINF:0,crtvroku
-http://162.212.176.83:8080/map-crtvroku.m3u8
-#EXTINF:0,grtsroku
-http://162.212.176.83:8080/map-grtsroku.m3u8
-#EXTINF:0,ktnroku
-http://162.212.176.83:8080/map-ktnroku.m3u8
 #EXTINF:0,imedi
 http://162.212.176.83:8080/imedi.m3u8
-#EXTINF:0,mauritania Arab
-http://162.212.176.83:8080/map-mauritania.m3u8
-#EXTINF:0,alquraan Arab
-http://162.212.176.83:8080/map-alquraan.stream.m3u8
-#EXTINF:-1,hk:hctv somalia
+#EXTINF:-1,HCTV somalia
 http://162.212.176.83:8080/hctvgermany.m3u8 
 #EXTINF:-1,TV CONTINENTAL
 rtmp://77.92.76.135:1935/tvce/livestream 
 #EXTINF:-1,TVC NEWS
 rtmp://77.92.76.135:1935/tvcnews/livestream
-#EXTINF:0,BEN
-http://162.212.176.83:8080/map-ben.m3u8
-#EXTINF:0,NOLLYWOOD
-http://162.212.176.83:8080/map-nollywood-roku.m3u8
-#EXTINF:-1,ADOME TV
-http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
 #EXTINF:-1,DIASPORA24
 rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
-#EXTINF:-1,2STV
-http://95.81.165.21/10359/index.m3u8
-#EXTINF:-1,1STV
-http://95.81.165.21/10359/01.m3u8
-#EXTINF:-1,OMOLETE CINEMA Portugal
-http://wowza1.videos.movile.com:8080/live/smil:cinema_1.smil/playlist.m3u8?
 #EXTINF:-1,1 CORCAS Arab
 http://95.81.165.21/5958/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,TELESAHEL
 http://162.212.176.83:8080/map-telesahel.m3u8
 #EXTINF:-1,hk:alquraan arab
