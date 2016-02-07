@@ -257,16 +257,6 @@ http://xrxs.net/video/live-p12moun-4728.m3u8
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0,Updated:8/2-PAC 12 Washingtons
 http://xrxs.net/video/live-p12wash-4728.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1,Sports Night
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 #EXTINF:0,Updated:8/7-MLS TV
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1, NBC GOLF 1080p
@@ -277,18 +267,10 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,SPORT TIME TV 2HD English
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-#EXTINF:-1,English:SPORTES 7 HD
+#EXTINF:-1,SPORTES 7 HD
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:0, Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_1840.m3u8
 #EXTINF:0,MLS
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1,NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,TVA Sports (french)
-rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com/…/FlashMediaPlayb…/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
-#EXTINF:-1,USA Live TV Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 #EXTINF:-1,USA:PAC-12 Net. (Oregon) Sport 640*360
 http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1,USA:Pac Mountain Sport 1920*1080
@@ -301,8 +283,6 @@ http://xrxs.net/video/live-p12baya-4728.m3u8
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1,USA:PAC-12 Net. (Los Angeles) Sport 640*360
 http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA:PAC-12 Net. (Washington) Sport 1280*720
-http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1,USA:PAC-12 Net. (Oregon) Sport 1280*720
 http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1,USA:Ginx Video Games
@@ -335,6 +315,16 @@ http://xrxs.net/video/live-p12losa-1164.m3u8
 http://xrxs.net/video/live-p12moun-1164.m3u8
 #EXTINF:-1,USA-Sport(Oregon)
 http://xrxs.net/video/live-p12oreg-1164.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:0,IDMAN TV
