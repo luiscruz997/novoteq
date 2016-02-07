@@ -221,38 +221,8 @@ rtmp://77.92.76.135:1935/tvcnews/livestream
 rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
 #EXTINF:-1,1 CORCAS Arab
 http://95.81.165.21/5958/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1, Digital Congo
-rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
-
 #EXTINF:-1, M6 Radio France
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -272,38 +242,29 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“SPORTS”,[COLOR pink](( SPORTS ))[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0, TSN 1
-http://4.31.30.159:9082
-#EXTINF:0, TSN 2
-http://4.31.30.159:9083
-#EXTINF:0, TSN 3
-http://4.31.30.159:9084
-#EXTINF:0, TSN 4
-http://4.31.30.159:9085
-#EXTINF:0,Updated:8/7-ESPN
-http://80.80.160.168/live/6/live.m3u8
+
 #EXTINF:-1,USA-PAC 12 Oregon (HD) Sport
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:0, Sports Spanish
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,Updated:8/5-Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,Updated:8/2-Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 #EXTINF:-1,RPC ACTION Panamá
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:0,Updated:8/2-PAC 12 Arizona
 http://xrxs.net/video/live-p12ariz-4728.m3u8
 #EXTINF:0,Updated:8/2-PAC 12 Bay Area
 http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:0,Updated:8/2-PAC 12 Los Angeles
-http://xrxs.net/video/live-p12losa-4728.m3u8
 #EXTINF:0,Updated:8/2-PAC 12 Mountain
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:0,Updated:8/2-PAC 12 Oregon
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0,Updated:8/2-PAC 12 Washingtons
 http://xrxs.net/video/live-p12wash-4728.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 #EXTINF:0,Updated:8/7-MLS TV
