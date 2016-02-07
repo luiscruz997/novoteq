@@ -819,41 +819,12 @@ http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 #EXTINF:-1,Canal 2 Internacional
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,Megavision
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Venezolana TV
-http://cast.streamingconnect.tv:1935/vtvweb2/vtvweb2/playlist.m3u8
 #EXTINF:-1,TVO Canal 23
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal UNO Colombia
-http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#
-#EXTINF:-1,Canal Tr3ce
-http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
-#EXTINF:-1,Zoom TV Colombia
-http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8#
 #EXTINF:-1,Canal U
 http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#
-#EXTINF:-1,Canal 12 Valledupar
-http://panelhdstream.com:1935/8022/8022/playlist.m3u8
-#EXTINF:-1,Canal 4 Arequipa
-http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8#
-#EXTINF:-1,QuintaVision Viña del Mar
-http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Canal 5 Linares
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1,Arica TV
@@ -862,66 +833,36 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
 #EXTINF:-1,CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1,Mundo Catolicos
-rtmp://199.168.116.11/app/mundocatolicos-channel
 #EXTINF:-1,Teleamiga
 http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
-#EXTINF:-1,Canal Luz
-http://iphone-streaming.ustream.tv/ustreamVideo/8901586/streams/live/playlist.m3u8#
-#EXTINF:-1,CTNi
+#EXTINF:-1,CTNi Religion
 http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
 #EXTINF:-1,TN Argentina
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,C5N
 http://c5n.stweb.tv:1935/c5n/live/playlist.m3u8
-#EXTINF:-1,HCH Honduras
+#EXTINF:-1,HCH Honduras  Religion
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 #EXTINF:-1,Teveo
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TV Acapulco
-rtmp://video.hosteris.com/tvacapulco/tvacapulco
 #EXTINF:-1,Tv UNO
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,Latina
-http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8?
 #EXTINF:-1,Televisión Nacional de Ecuador
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8#
-#EXTINF:-1,Canela TV
-http://38.96.148.216:1935/live/canelatv/playlist.m3u8#
-#EXTINF:-1,Ecotel Ecuador
-http://enhd.co:1935/ecoteltv/ecoteltv/playlist.m3u8
 #EXTINF:-1,UCV Satelital
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:-1,Willax Peru
-rtmp://willax.mediastream.pe/vv_willax/livestream
 #EXTINF:-1,Red PAT Bolivia
 http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
-#EXTINF:-1,Red UNO Bolivia
-http://iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m3u8#
-#EXTINF:-1,Canal 28 Mar del Plata
-http://iphone-streaming.ustream.tv/ustreamVideo/18752678/streams/live/iphone/playlist.m3u8#
-#EXTINF:-1,Television RioNegrina
-rtmp://198.50.154.40/live/live15
-#EXTINF:-1,Canal 3 Minas de Corrales Uruguay
-http://iphone-streaming.ustream.tv/ustreamVideo/19067706/streams/live/iphone/playlist.m3u8#
-#EXTINF:-1,Telepacifico
-http://iphone-streaming.ustream.tv/ustreamVideo/12380713/streams/live/iphone/playlist.m3u8#
-#EXTINF:-1,Cristovision
-http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist_b300000_w2000349639.m3u8#
 #EXTINF:-1,Magazine Argenina
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 #EXTINF:-1,Canal 5 Tigre
 http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/iphone/playlist.m3u8#
-#EXTINF:-1,Canal 2 San Antonio
-http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8?
 #EXTINF:-1,Telesecundaria
 http://dl-dgtve.xsn.com.mx/dgtve/canal11dgtve.mp4/playlist.m3u8?
 #EXTINF:-1,TVDocencia
 http://dl-dgtve.xsn.com.mx/dgtve/canal12dgtve.mp4/playlist.m3u8?
 #EXTINF:-1,Telebachillerato
 http://dl-dgtve.xsn.com.mx/dgtve/canal17dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,Tele México
-http://dl-dgtve.xsn.com.mx/dgtve/canal21dgtve.mp4/playlist.m3u8?
 #EXTINF:-1,TVUniversidad
 http://dl-dgtve.xsn.com.mx/dgtve/canal22dgtve.mp4/playlist.m3u8?
 #EXTINF:-1,Telesecundaria+
@@ -930,20 +871,10 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal27dgtve.mp4/playlist.m3u8?
 http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?
 #EXTINF:-1,Ingenio
 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,Hip Hop Channel
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
 #EXTINF:-1,Musica SI
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:-1,MTV Rocks
-http://92.50.181.6/tv/1279/index.m3u8
-#EXTINF:-1,TeleAragua
-http://edge.wms28.lorini.net/telearagua/telearagua1/playlist.m3u8?
 #EXTINF:-1,Peliculas en Español
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,Canal TC Ecuador
-http://50.97.142.130:1935/hls2/amlst:10001_ios_hd/playlist.m3u8?
-#EXTINF:-1,Canal i
-rtmp://edge.wms28.lorini.net/canal-i/canal-i
 #EXTINF:-1,CampusTV
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8?
 #EXTINF:-1,El Pingüino TV
@@ -952,18 +883,31 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?
 #EXTINF:-1,Antofagasta TV
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
-#EXTINF:-1,Canal 12 Cordoba
-http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,A24
-http://iphone-streaming.ustream.tv/ustreamVideo/17916700/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,Teledunamis
 http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?
 #EXTINF:-1,Vivra TV
 http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,Radio y Televisión de Querétaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8?
-#EXTINF:-1,Telecinco
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Aragon TV
 http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8#
 #EXTINF:-1,Television Canaria
