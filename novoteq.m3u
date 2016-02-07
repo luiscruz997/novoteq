@@ -35,7 +35,7 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
 #EXTINF:0,CBS NEWS
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1,LIVE MOTORSPORT USA
+#EXTINF:-1,ESPN 2 /LIVE MOTORSPORT USA
 http://motorsport.hopto.org:8080/
 #EXTINF:-1, OM5 TV-SD(french)
 http://ec.playmedia.fr/om5-tv/live/HasBahCa.m3u8
