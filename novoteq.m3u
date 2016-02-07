@@ -674,8 +674,8 @@ rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 #EXTINF:-1,TV Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-
-
+#EXTINF:-1,HCH Honduras
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 
 
 
