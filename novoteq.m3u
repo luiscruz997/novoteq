@@ -229,26 +229,6 @@ http://95.81.165.21/5958/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, Gabon TV
-rtmp://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream
-
-#EXTINF:0,Afrique Media Tv
-rtmp://afm.streamakaci.com/afm/afm.stream
-
-#EXTINF:0,Afric Nigeria TV
-http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?wowzasessionid=598321747
-
 #EXTINF:-1, Digital Congo
 rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
 
