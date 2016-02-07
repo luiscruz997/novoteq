@@ -232,38 +232,14 @@ http://95.81.165.21/5958/index.m3u8
 
 
 
-#EXTINF:-1,TELESAHEL
-http://162.212.176.83:8080/map-telesahel.m3u8
-#EXTINF:-1,hk:alquraan arab
-http://162.212.176.83:8080/map-alquraan.stream.m3u8
-#EXTINF:-1,hk:ben
-http://162.212.176.83:8080/map-ben.m3u8
-#EXTINF:-1,hk:equinoxe
-http://162.212.176.83:8080/map-equinoxe.m3u8
-#EXTINF:-1,hk:france24roku
-http://162.212.176.83:8080/map-france24roku.stream.m3u8
-#EXTINF:-1,hk:gabontv
-http://162.212.176.83:8080/map-gabontv.stream.m3u8
-#EXTINF:-1,hk:grtsroku
-http://162.212.176.83:8080/map-grtsroku.m3u8
-#EXTINF:-1,hk:ktnroku
-http://162.212.176.83:8080/map-ktnroku.m3u8
-#EXTINF:-1,hk:mauritania Arab
-http://162.212.176.83:8080/map-mauritania.m3u8
-#EXTINF:-1,hk:nollywood-roku
-http://162.212.176.83:8080/map-nollywood-roku.m3u8
-#EXTINF:-1,hk:rti1roku
-http://162.212.176.83:8080/map-rti1roku.m3u8
-#EXTINF:-1,hk:rtncroku
-http://162.212.176.83:8080/map-rtncroku.m3u8
-#EXTINF:-1,hk:telecongo
-http://162.212.176.83:8080/map-telecongo.stream.m3u8
-#EXTINF:-1,hk:telesahel
-http://162.212.176.83:8080/map-telesahel.m3u8
-#EXTINF:-1,hk:tfmroku
-http://162.212.176.83:8080/map-tfmroku.m3u8
-#EXTINF:-1,hk:rtgatv
-http://162.212.176.83:8080/rtgatv.stream.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1, Gabon TV
 rtmp://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream
 
