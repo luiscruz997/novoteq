@@ -315,54 +315,12 @@ http://xrxs.net/video/live-p12losa-1164.m3u8
 http://xrxs.net/video/live-p12moun-1164.m3u8
 #EXTINF:-1,USA-Sport(Oregon)
 http://xrxs.net/video/live-p12oreg-1164.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,USA-BASKET UNI.(Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:0,IDMAN TV
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:0,TRT Spor HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1,Auto Moto TV Gaz Russe
 mms://100automoto.tv/100gaz
-#EXTINF:-1,TÜRK:A SPOR 
-http://hls.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
-#EXTINF:-1,TÜRK:A SPOR 
-http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
-#EXTINF:-1,TÜRK:BURSASPOR TV 
-rtmp://stream.yayindayiz.biz:80/Bursaspor/bursaspor
 #EXTINF:-1,Sports Tonight UK
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001
 #EXTINF:0,Sport Time TV 2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
-#EXTINF:0,Sport Time TV 4
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8
-#EXTINF:0,Updated:8/5-Sport Time TV 5
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
-#EXTINF:0,Updated:8/5-Sport Time TV 6
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
-#EXTINF:0,Updated:8/5-Sport Time TV 7
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -379,10 +337,9 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“KIDS”,[COLOR pink]((KIDS ))[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1, Tom and Jerry  1
-rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
-#EXTINF:-1, Tom and Jerry 2
-rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+
+
+
 #EXTINF:-1,Disney Junior Français KIDS
 http://198.179.31.198/live/2069.high.stream/2069.high.stream/index.m3u8
 #EXTINF:0,Updated:8/8-Simpsons 24/7;US;English;
