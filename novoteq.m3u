@@ -5,24 +5,10 @@ http://0.0.0.0:1234
 
 
 
-#EXTINF:-1, Weather Network Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-#EXTINF:-1, Weather Network Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
 #EXTINF:-1,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,EUROSPORT 1 FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1, Weather Network Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-#EXTINF:-1, SUPER SPORT 2 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/359.m3u8
-#EXTINF:-1,SUPER SPORT 3 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/358.m3u8
-#EXTINF:-1,SUPER SPORT 4 HD
- http://skyiptv.ddns.net:8000/live/edi/edi/357.m3u8
-#EXTINF:-1, VIASAT SPORT BALTIC
- http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
 #EXTINF:-1, VIASAT SPORT RUS
  http://4.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1, VIASAT SPORT RUS
@@ -34,35 +20,22 @@ http://skyiptv.ddns.net:8000/live/edi/edi/358.m3u8
 #EXTINF:-1, FUTBOL UKR 2
  http://4.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1, FUTBOL UKR 3
- http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1, Weather Network Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-#EXTINF:-1, Weather Network Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8 
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1, TSC The shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8 
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 #EXTINF:-1, CPAC
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8 
-
-#EXTINF:-1, TVA
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on 
-
-#EXTINF:-1, METRO TV (French)
-rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html 
-
 #EXTINF:-1, HSN
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
 #EXTINF:-1, The Florida Channel
 rtmp://webcasting.thefloridachannel.org/live/tvweb1
-#EXTINF:-1, University of California TV
+#EXTINF:-1,University of California TV
 rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
-#EXTINF:0,Updated:8/9-CNBC NEWS
-http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
-#EXTINF:0,Updated:8/3-NASA TV
+#EXTINF:0,NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:0,Updated:8/9-RT News
+#EXTINF:0,RT NEWS
 http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
-#EXTINF:0,Updated:8/9-CBS News
+#EXTINF:0,CBS NEWS
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1,LIVE MOTORSPORT USA
 http://motorsport.hopto.org:8080/
@@ -78,12 +51,14 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,VEVO 1 USA
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1, TSC The shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 #EXTINF:-1,HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-#EXTINF:-1, METRO TV (French)
-rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html
+
+
+
+
+
+
 #EXTINF:-1, TVA Sport 2 (French)
 rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com/…/FlashMediaPlayb…/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
 #EXTINF:-1,VEVO 2 USA
