@@ -695,288 +695,15 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“ADULTS XXX”,[COLOR pink](( ADULT SECTION XXX ))[/COLOR]
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“TEST TEST TEST”,[COLOR pink]((TEST TEST TEST))[/COLOR]
 http://0.0.0.0:1234
-
-
-
-#EXTINF:0,Big Brother 24/7 Random Air Time;Entertainment;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/55b7db9ca0281_/stream.m3u
-#EXTINF:-1,Jasmin
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:0,Updated:8/8-South Park 24/7;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u
-#EXTINF:-1, Miami TV MUSIC
-http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
-#EXTINF:-1,Station
-http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
-#EXTINF:-1,SATISFACTION HD
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-#EXTINF:-1,Brasileirinhas
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:-1,LiveSex Latinas
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1,Passiexxx
-http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
-#EXTINF:-1,Wepa
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
-#EXTINF:-1,Wepa 2
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
-#EXTINF:-1,ttv11 china
-rtmp://kv3.ts33.net/tv/ttv11
-#EXTINF:0,vtv4 (Chinees)
- 
-http://162.212.176.83:8080/vtv4.m3u8
-#EXTINF:-1,ttv12 china
-rtmp://149.3.141.210:1935/tv/ttv12
-#EXTINF:-1, XXX Asia 1
-http://59.120.43.181:8081
-#EXTINF:-1, XXX Asia 2
-http://59.120.43.181:8082
-#EXTINF:-1,XXX Asia 3
-http://59.120.43.181:8083
-#EXTINF:-1,XXX Asia 4
-http://59.120.43.181:8084
-#EXTINF:-1,XXX Asia 5
-http://59.120.43.181:8085
-#EXTINF:-1,XXX Asia 6
-http://59.120.43.181:8086
-#EXTINF:-1,XXX Asia 7
-http://59.120.43.181:8087
-#EXTINF:-1,Power Girls TV HD
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:-1,Bollywood Bikini TV
-http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
-#EXTINF:-1, Olala
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:-1, Russian Night
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
-#EXTINF:0,ADULT TV 1
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-#EXTINF:-1, Blue Hustler
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:0,PLAY BOY TV
-http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1, Playboy TV
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1, XXL
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
-#EXTINF:-1,Adult:CS Sex +18 ADULT mmsh
-mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,BABE_XXX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1,Adult:Babestation
-http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-#EXTINF:-1,Adult:Babestation Blue
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-#EXTINF:-1,Adult:Babestation Unleashed
-http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
-#EXTINF:-1,Adult:Babestation Xtra
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8
-#EXTINF:-1,Adult:Bella Club
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1,***HasBahCa IPTV***YETİSKİN-ADULT+18***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,Adult Premium 1
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
-#EXTINF:-1,Adult Premium 2
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
-#EXTINF:-1,ADULTO 1 XXX
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-#EXTINF:-1,ASIA 8081
-http://59.120.43.181:8081
-#EXTINF:-1,ASIA 8082
-http://59.120.43.181:8082
-#EXTINF:-1,ASIA 8083
-http://59.120.43.181:8083
-#EXTINF:-1,ASIA 8084
-http://59.120.43.181:8084
-#EXTINF:-1,ASIA 8085
-http://59.120.43.181:8085
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-#EXTINF:-1,BabeStation Unleashed 2
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-#EXTINF:-1,BabeStation Xtra
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8
-#EXTINF:-1,Bella Luz rtsp
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1,Blue Hustler
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:-1,CS Sex +18 ADULT mmsh
-mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,DLDVS 1
-http://208.122.3.2:9000
-#EXTINF:-1,DLDVS 2
-http://208.122.3.2:8700
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1,Japon DRP
-http://199.195.195.108:32002
-#EXTINF:-1,Japon TOKYO HOT
-http://199.195.195.108:32001
-#EXTINF:-1,Japon_03
-http://199.195.195.108:32003
-#EXTINF:-1,Japon_04
-http://199.195.195.108:32004
-#EXTINF:-1,Japon_05
-http://199.195.195.108:32005
-#EXTINF:-1,Japon_06
-http://199.195.195.108:32006
-#EXTINF:-1,Jazmin Channel HD 720
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1,Korea m3u8 Ask TV
-http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Livething Premium
-http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Okadai
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Okadai HD
-http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Paradise TV
-http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
-#EXTINF:-1,Korea rtmp Ask TV
-rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:-1,Korea rtmp Livething Premium
-rtmp://edge2.everyon.tv/etv2/phd1006
-#EXTINF:-1,Korea rtmp Okadai
-rtmp://edge2.everyon.tv/etv2/pld1003
-#EXTINF:-1,Korea rtmp Okadai HD
-rtmp://edge2.everyon.tv/etv2/phd1003
-#EXTINF:-1,Korea rtmp Paradise TV
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,Korea:韩国phd1008
-rtmp://edge2.everyon.tv/etv2/phd1008
-#EXTINF:-1,Korea:韩国phd499
-rtmp://edge2.everyon.tv/etv2sb/phd499
-#EXTINF:-1,Korea:韩国phd501
-rtmp://edge2.everyon.tv/etv2sb/phd501
-#EXTINF:-1,Korea:韩国phd511
-rtmp://edge2.everyon.tv/etv2sb/phd511
-#EXTINF:-1,Korea:韩国phd59
-rtmp://edge2.everyon.tv/etv2sb/phd59
-#EXTINF:-1,Korea:韩国phd60
-rtmp://edge2.everyon.tv/etv2sb/phd60
-#EXTINF:-1,Korea:韩国phd61
-rtmp://edge2.everyon.tv/etv2sb/phd61
-#EXTINF:-1,Korea:韩国phd62
-rtmp://edge2.everyon.tv/etv2sb/phd62
-#EXTINF:-1,Korea:韩国phd63
-rtmp://edge2.everyon.tv/etv2sb/phd63
-#EXTINF:-1,Korea:韩国phd64
-rtmp://edge2.everyon.tv/etv2sb/phd64
-#EXTINF:-1,Korea:韩国phd769
-rtmp://edge2.everyon.tv/etv2sb/phd769
-#EXTINF:-1,Korea:韩国phd771
-rtmp://edge2.everyon.tv/etv2sb/phd771
-#EXTINF:-1,Korea:韩国phd772
-rtmp://edge2.everyon.tv/etv2sb/phd772
-#EXTINF:-1,Korea:韩国phd968
-rtmp://edge2.everyon.tv/etv2sb/phd968
-#EXTINF:-1,Korea:韩国phd991
-rtmp://edge2.everyon.tv/etv2sb/phd991
-#EXTINF:-1,Korea:韩国phd992
-rtmp://edge2.everyon.tv/etv2sb/phd992
-#EXTINF:-1,Korea:韩国phd993
-rtmp://edge2.everyon.tv/etv2sb/phd993
-#EXTINF:-1,LiveSex Latinas
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1,Olalá
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:-1,Playboy TV
-http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1,PowerGirls
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:-1,Russian Night
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
-#EXTINF:-1,TOP PREMIUM XXX
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:-1,XXX 1
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-
-
-
-========================================================================================
-
-
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“TEST TEST TEST ”,[COLOR red](( ADULT SECTION XXX ))[/COLOR]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTM3U
 #EXTINF:-1,Yes!
@@ -2558,4 +2285,316 @@ http://ift.tt/1HljsdH
 http://ift.tt/1IR
 
 https://raw.githubusercontent.com/luiscruz997/Luis-Cruz/master/Newcenturytv 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“ADULTS XXX”,[COLOR pink](( ADULT SECTION XXX ))[/COLOR]
+http://0.0.0.0:1234
+
+
+
+#EXTINF:0,Big Brother 24/7 Random Air Time;Entertainment;US;English;
+http://veetle.com/index.php/hls/streamMbrFast/55b7db9ca0281_/stream.m3u
+#EXTINF:-1,Jasmin
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:0,Updated:8/8-South Park 24/7;US;English;
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u
+#EXTINF:-1, Miami TV MUSIC
+http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:-1,Station
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:-1,SATISFACTION HD
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+#EXTINF:-1,Brasileirinhas
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1,LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,Wepa
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+#EXTINF:-1,Wepa 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+#EXTINF:-1,ttv11 china
+rtmp://kv3.ts33.net/tv/ttv11
+#EXTINF:0,vtv4 (Chinees)
+ 
+http://162.212.176.83:8080/vtv4.m3u8
+#EXTINF:-1,ttv12 china
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1, XXX Asia 1
+http://59.120.43.181:8081
+#EXTINF:-1, XXX Asia 2
+http://59.120.43.181:8082
+#EXTINF:-1,XXX Asia 3
+http://59.120.43.181:8083
+#EXTINF:-1,XXX Asia 4
+http://59.120.43.181:8084
+#EXTINF:-1,XXX Asia 5
+http://59.120.43.181:8085
+#EXTINF:-1,XXX Asia 6
+http://59.120.43.181:8086
+#EXTINF:-1,XXX Asia 7
+http://59.120.43.181:8087
+#EXTINF:-1,Power Girls TV HD
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,Bollywood Bikini TV
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+#EXTINF:-1, Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1, Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:0,ADULT TV 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1, Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:0,PLAY BOY TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1, Playboy TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1, XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,Adult:CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,BABE_XXX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Adult:Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:-1,Adult:Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,Adult:Babestation Unleashed
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+#EXTINF:-1,Adult:Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1,Adult:Bella Club
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1,***HasBahCa IPTV***YETİSKİN-ADULT+18***
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,Adult Premium 1
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+#EXTINF:-1,Adult Premium 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+#EXTINF:-1,ADULTO 1 XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1,ASIA 8081
+http://59.120.43.181:8081
+#EXTINF:-1,ASIA 8082
+http://59.120.43.181:8082
+#EXTINF:-1,ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1,ASIA 8084
+http://59.120.43.181:8084
+#EXTINF:-1,ASIA 8085
+http://59.120.43.181:8085
+#EXTINF:-1,BABES SPORTING
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,BabeStation Unleashed 2
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,BabeStation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1,Bella Luz rtsp
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1,Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1,DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,Japon DRP
+http://199.195.195.108:32002
+#EXTINF:-1,Japon TOKYO HOT
+http://199.195.195.108:32001
+#EXTINF:-1,Japon_03
+http://199.195.195.108:32003
+#EXTINF:-1,Japon_04
+http://199.195.195.108:32004
+#EXTINF:-1,Japon_05
+http://199.195.195.108:32005
+#EXTINF:-1,Japon_06
+http://199.195.195.108:32006
+#EXTINF:-1,Jazmin Channel HD 720
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:-1,Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Korea:韩国phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1,Korea:韩国phd499
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1,Korea:韩国phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1,Korea:韩国phd511
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1,Korea:韩国phd59
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1,Korea:韩国phd60
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1,Korea:韩国phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1,Korea:韩国phd62
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1,Korea:韩国phd63
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1,Korea:韩国phd64
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1,Korea:韩国phd769
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1,Korea:韩国phd771
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1,Korea:韩国phd772
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1,Korea:韩国phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1,Korea:韩国phd991
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1,Korea:韩国phd992
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1,Korea:韩国phd993
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#EXTINF:-1,LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Olalá
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,Playboy TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,PowerGirls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,TOP PREMIUM XXX
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1,XXX 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+
+
+========================================================================================
+
+
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“TEST TEST TEST ”,[COLOR red](( ADULT SECTION XXX ))[/COLOR]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
