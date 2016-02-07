@@ -21,8 +21,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
  http://4.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1, FUTBOL UKR 3
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1, TSC The shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 #EXTINF:-1, CPAC
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8 
 #EXTINF:-1, HSN
@@ -206,18 +204,22 @@ rtmp://fl1.viastreaming.net:1935/iqraatv3/livestream swfUrl=http://iqraa.com/scr
 http://0.0.0.0:1234
 
 #EXTM3U
-#EXTINF:-1,hk:bonetv
-http://162.212.176.83:8080/bonetv.stream.m3u8 
+
 #EXTINF:-1, HAITI SHALOM TV 
 http://iphone-streaming.ustream.tv/uhls/12020729/streams/live/iphone/playlist.m3u8
 #EXTINF:0,[COLOR red]SHALOM TV[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/12020729/streams/live/iphone/playlist.m3u8
-#EXTINF:0,ben (music)
-http://162.212.176.83:8080/map-ben.m3u8
-#EXTINF:-1, Africa 24
-http://afr24-p.cdn.hexaglobe.net/streaming/africa24_af24/playlist4.m3u8
 #EXTINF:-1, France 24
 rtmp://myafricanmega4.tulix.tv:1935/map-france24/map-france24roku.stream
+
+
+
+
+
+
+
+
+
 #EXTINF:0,france24roku
 http://162.212.176.83:8080/map-france24roku.stream.m3u8
 #EXTINF:0,nollywood-roku
