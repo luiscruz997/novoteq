@@ -504,34 +504,14 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,TeleCaribe Colombia
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1,Canal 4 Foro TV México Religion
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:-1,Telemundo
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,DISCOVERY en Esp
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Azteca 7 Monterrey México
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1,Canal 4 Foro TV México 
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1,COL:TeleCaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 #EXTINF:0,tvn
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8?
 #EXTINF:-1, Rep. Dominicana:Teleantillas Canal 2
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
-#EXTINF:-1,Venezuela:Tele Aragua Venezuela
-http://edge.wms28.lorini.net/telearagua/telearagua1/playlist.m3u8
-#EXTINF:-1,Argentina:Canal 2 Misiones
-http://190.57.237.214/live/canal.m3u8
 #EXTINF:-1,Canal 2 Internac. Nicaragua
 rtmp://162.244.81.181:1935/live//Stream1
 #EXTINF:-1,Ecuador:Television Nacional de Ecuador
@@ -540,18 +520,10 @@ http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 #EXTINF:-1,Antena Latina Rep. Dominicana
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Brasil:TV ESCOLA By Compus1286
-http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
 #EXTINF:-1,Argentina:Canal 4 HD 720 Jujuy
 rtmp://streaming.wirenetserver.com.ar/canal4/live_1
-#EXTINF:-1,Discovery en Español
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,Mex:AZTECA NOTICIAS HD
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,Señal Institucional Colombia
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8
-#EXTINF:-1,CHILE:MEGA HD 720
-http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 #EXTINF:-1,Chil:CANAL 9 HD
 http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
 #EXTINF:-1,CHILE:TVN
@@ -560,32 +532,18 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fe
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,Mex:TVMas HD
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1,TiVa HD 720 Puerto Rico
-http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292
-#EXTINF:-1,Esp:LA SEXTA HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1,Esp:EXTREMADURA TV
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:-1,CR:Colosal TV Costa Rica
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1,COL:Canal Tr3ce
-http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
 #EXTINF:-1,Canal 33 Salvador
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Canal 4 Foro TV México Religion
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1,ARG:Canal 9 Salta Religion
 http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Ultra Cine HD 720
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1,VEN:Canal i Venezuela
 rtmp://edge.wms28.lorini.net/canal-i/canal-i
-#EXTINF:-1,ARG:Canal 9 Salta
-http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,Latino:UNIVERSAL MOVIES 
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, Canal 9  Colombia
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8
 #EXTINF:0,ARIRANG HD
 http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
 #EXTINF:-1,TV MAS México
@@ -598,6 +556,15 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1,Telemetro Panamá
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,COL:Canal Capital
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
 #EXTINF:-1,Esp:Telemadrid
