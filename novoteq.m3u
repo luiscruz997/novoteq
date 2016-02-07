@@ -145,16 +145,11 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
 #EXTINF:0,Updated:8/9-Euronews (Arabe)
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
-
-
-
-
-
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,ABC News (stream 2)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:0,Updated:8/9-WGN (CW)
+#EXTINF:0,WGN (CW)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 #EXTINF:-1, CPAC Anglais
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
@@ -162,16 +157,10 @@ http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
-#EXTINF:0,HQ Bollywood Movies 24/7 Random Air Time;Entertainment;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/4e0e6f4dcc2d3_/stream.m3u
-#EXTINF:0,HQ Bollywood Movies 2 24/7 Random Air Time;Entertainment;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/4dd469a36a357_/stream.m3u
 #EXTINF:-1, Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 #EXTINF:-1, TWiT Live
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,M6
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
 #EXTINF:-1,IQRA ISLAM CHANNEL France Arab
 rtmp://fl1.viastreaming.net:1935/iqraatv3/livestream swfUrl=http://iqraa.com/scripts/jwplayer/jwplayer.flash.swf pageUrl=http://iqraa.com/Livestream/Livestream/africa?lng=en
 
@@ -578,6 +567,8 @@ http://0.0.0.0:1234
 http://streaming206.radionomy.com:80/DaryAir
 #EXTINF:0, MUSIC TV
 http://4.31.30.159:9149
+#EXTINF:-1,M6
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
 #EXTINF:0,Updated:7/27-Now Music
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0,Updated:7/27-Clubland TV
