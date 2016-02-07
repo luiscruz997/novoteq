@@ -556,15 +556,6 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1,Telemetro Panamá
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,COL:Canal Capital
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
 #EXTINF:-1,Esp:Telemadrid
@@ -575,8 +566,6 @@ http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevi
 http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 #EXTINF:-1,Arg:CANAL 13 HD 
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:-1,Arg:Canal Rural 1 HD
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
 #EXTINF:-1,Arg:MAGAZINE
 rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
 #EXTINF:-1,Arg:EL TRECE HD
@@ -587,8 +576,6 @@ rtmp://c5n.stweb.tv:1935/c5n/live
 rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/
 #EXTINF:-1,Chil:TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
-#EXTINF:-1,Chil:MEGA HD
-http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 #EXTINF:-1,Chil:BIO BIO TV CONCEPCION
 http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
 #EXTINF:-1,Chil:VTV2
@@ -597,24 +584,24 @@ http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
 #EXTINF:-1,Dom:TELEANTILLAS 2 HD
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,Dom:Telefuturo Canal 23
-http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
-#EXTINF:-1,Dom:Telesistema Canal 11
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
 #EXTINF:-1,Pan:SERTV 11
 rtmp://216.224.177.132/live/sertv
 #EXTINF:-1,Costa Rica:SINART CANAL 13
 rtmp://stream01.cyberfuel.com/SinartCanal13 playpath=livestream swfUrl=http://www.sinart.go.cr/canal13/sinart_video_canal13_480x360.swf live=1 pageUrl=http://wwitv.com/tv_channels/b2975.htm
-#EXTINF:-1,Bolivia:Redadvenir
-rtmp://streamer1.streamhost.org/salive/GMIalfam
-#EXTINF:-1,Venezuela:TeleSur
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1,Brasil:BASTA CRER
 rtmp://streamspub.manasat.com/live/bastacrer
 #EXTINF:-1,Brasil:Extremadura TV
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:-1,Brasil:TV MANA-1
 rtmp://195.22.19.179/manasat/manasat2
+
+
+
+
+
+
+
+
 #EXTINF:-1,Brasil:Rede Família
 rtsp://srv3.ntelecom.com.br/redefamilia
 #EXTINF:-1,Brasil:Brasil Central
