@@ -9,6 +9,8 @@ http://0.0.0.0:1234
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,EUROSPORT 1 FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0,Updated:8/8-Simpsons 24/7;US;English;
+http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u
 #EXTINF:-1, VIASAT SPORT RUS
  http://4.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1, VIASAT SPORT RUS
@@ -334,20 +336,8 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“KIDS”,[COLOR pink]((KIDS ))[/COLOR]
-http://0.0.0.0:1234
 
 
-
-
-#EXTINF:-1,Disney Junior Français KIDS
-http://198.179.31.198/live/2069.high.stream/2069.high.stream/index.m3u8
-#EXTINF:0,Updated:8/8-Simpsons 24/7;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u
-#EXTINF:0,Spongebob 24/7 Random Air Time;Entertainment;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/50686cb1bbaa9_/stream.m3u
-#EXTINF:0,Animation Movies 24/7;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/504fe1898d336_/stream.m3u
 
 
 
@@ -378,76 +368,46 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,America Latina Music
 http://streaming206.radionomy.com:80/DaryAir
-#EXTINF:0, MUSIC TV
-http://4.31.30.159:9149
 #EXTINF:-1,M6
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
-#EXTINF:0,Updated:7/27-Now Music
-http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0,Updated:7/27-Clubland TV
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0,Updated:7/27-Planet POP
-http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1, Mi Gente Colombia
-http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
-#EXTINF:0,Updated:7/27-AKA Hip Hop
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0,Updated:7/27-A ONE Hip Hop
-http://87.239.31.232/hls/230.3.3.93.sd.stream.m3u8
-#EXTINF:0,Updated:7/27-DJING
+#EXTINF:0,DJING
 http://www.djing.com/tv/live.m3u8
-#EXTINF:0,53Updated:7/31-NON STOP VIDEOS-
+#EXTINF:0,NON STOP VIDEOS-
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0,Vevo music
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0,Updated:7/27-DJING Dancefloor
+#EXTINF:0,Updated:DJING Dancefloor
 http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:0,Updated:7/27-DJING Underground
+#EXTINF:0,DJING Underground
 http://www.djing.com/tv/underground.m3u8
-#EXTINF:0,13Updated:7/20-
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0,Updated:7/27-CAPITAL TV
+#EXTINF:0,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Updated:7/27-HEART TV
+#EXTINF:0,HEART TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1,France Music 
 rtmp://rtmp.infomaniak.ch/livecast/tvm3
-#EXTINF:0,Updated:7/27-DJING Hot Hot Hot
+#EXTINF:0,DJING Hot Hot Hot
 http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:0,Updated:7/27-DJING Animation
+#EXTINF:0,DJING Animation
 http://www.djing.com/tv/animation.m3u8
-#EXTINF:-1,Brasil:First Music HD 1080p
-rtmp://109.239.142.62/live/livestream3
-#EXTINF:0,Updated:7/27-DJING Classic
+#EXTINF:0,DJING Classic
 http://www.djing.com/tv/classics.m3u8
-#EXTINF:0,Updated:7/27-Clubbing TV
+#EXTINF:0,Clubbing TV
 http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
-#EXTINF:0,Updated:7/27-1HD Music TV
-http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:0,Updated:7/27-KISS TV
+#EXTINF:0,KISS TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-#EXTINF:0,Updated:7/27-Virgin TV
+#EXTINF:0,Virgin TV
 http://fms.105.net:1935/live/virgin1/playlist.m3u8
-#EXTINF:0,Updated:7/27-Dance TV
-http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
-#EXTINF:0,Updated:7/27-Monte Carlo TV
+#EXTINF:0,Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
-#EXTINF:0,Updated:7/27-M2O Music
+#EXTINF:0,M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,Updated:7/27-Fashion Tv
-http://msk1.peers.tv/streaming/fashion/16/tvrec/playlist.m3u8
-#EXTINF:-1,USA:Clubbing TV By Compus1286
+#EXTINF:-1,Clubbing TV By Compus1286
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
-#EXTINF:0,Updated:7/27-VEVO 2 HD
+#EXTINF:0,VEVO 2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0,Updated:7/27-VEVO 3 HD
+#EXTINF:0,VEVO 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,USA:Kiss Tv Music
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1, OUI TV MUSIC
 http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
-#EXTINF:-1, Channel AKA MUSIC
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,ARG:Quiero Musica mms
 mms://200.42.92.6:1755/qmusica
 #EXTINF:-1, RADIO MONTE CARLO TV Italian Music
@@ -455,8 +415,6 @@ rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:-1, M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:-1, Vevo Hip Hop TV
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,USA:Vevo2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1, Vevo ROCK TV
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
@@ -466,51 +424,26 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1, RADIO 105 TV
 rtmp://fms.105.net:1935/live/105Test1
-#EXTINF:-1,CR:Colosal TV Costa Rica
-rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1, Best Music HD
 rtmp://stream.smcloud.net/live2/best/best_720p
-#EXTINF:0,Updated:7/27-ESKA TV Music
+#EXTINF:0,ESKA TV Music
 http://stream.smcloud.net/live/eskatv/aylist.m3u8
-#EXTINF:0,Updated:7/27-ESKA Best Music HD
+#EXTINF:0,ESKA Best Music HD
 http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
-#EXTINF:0,Updated:7/27-ESKA VOX HD
+#EXTINF:0,ESKA VOX HD
 http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
-#EXTINF:0,Updated:7/27-ESKA Party HD
+#EXTINF:0,ESKA Party HD
 http://stream.smcloud.net/live2/eska_party/eska_party_720p/playlist.m3u8
-#EXTINF:0,Updated:7/27-ESKA Rock HD
+#EXTINF:0,ESKA Rock HD
 http://stream.smcloud.net/live2/eska_rock/eska_rock_720p/playlist.m3u8
-#EXTINF:-1, NOW Music
-http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,USA:Kiss Tv Music
+#EXTINF:-1,Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1, DANCE TV
-http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
-#EXTINF:-1,t Enlace Juvenil
+#EXTINF:-1,Enlace Juvenil
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
 #EXTINF:-1,Virgin Radio
 http://fms.105.net:1935/live/virgin1/.m3u8?
 #EXTINF:-1,TV Polanco
 rtmp://186.155.200.118:1935/live/ColombiasuMusica
-#EXTINF:-1,CR:Colosal TV Costa Rica
-rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1,Enlace Juvenil Religion
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -525,48 +458,17 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“Religion2”,[COLOR pink]((Religion2))[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,BOLIVIA Redadvenir Religion
-rtmp://streamer1.streamhost.org/salive/GMIalfam
-#EXTINF:-1,t Tele Amiga
-http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/canalesdelpueblotv.m3u8?MegaIPTVArgentina
+
 #EXTINF:-1,ARG:Canal 9 Paraná Religion
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
 #EXTINF:-1,Bolivia:Redadvenir  Religion
 rtmp://streamer1.streamhost.org/salive/GMIalfam
-#EXTINF:-1,VEN:Canal i Venezuela Religion
-rtmp://edge.wms28.lorini.net/canal-i/canal-i
-#EXTINF:-1,Enlace TV Religion
-http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
-#EXTINF:-1,Enlace Juvenil Religion
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
-#EXTINF:-1,t CristoVision Religion
-http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist_b300000_w2000349639.m3u8
 #EXTINF:-1,t CTNi Religion
 http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
-#EXTINF:-1,t ESNE Religion
-http://198.154.228.82:1935/live/esnetv/playlist.m3u8
 #EXTINF:-1,t EWTN Religion
 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8
 #EXTINF:-1,t Tele Amiga
 http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/canalesdelpueblotv.m3u8?MegaIPTVArgentina
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -582,24 +484,25 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Telemundo / CanaldelasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
-#EXTINF:-1,TVX Canal 23 El Salvador
-rtmp://panel.elsalvadordigital.com:1935/canal23/canal23
 #EXTINF:-1,Canal 11 Punta del Este Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,Canal 2 XEWTV México
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1,Mex:OCHO TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:0,campustv (latino)
-http://162.212.176.83:8080/campustv.stream.m3u8
 #EXTINF:-1,Once TV Internacional México
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,Chile - EL PINGUINO TV CANAL 4 PUNTA ARENAS
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/HasBahCa.m3u8
-#EXTINF:-1,Ultra Cine
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
-#EXTINF:0,mega
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,PERU:Andina TV HD 720
 http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
 #EXTINF:-1,Mex:TVMas VERACRUZ
