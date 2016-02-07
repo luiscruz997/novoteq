@@ -702,133 +702,68 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“TEST TEST TEST”,[COLOR pink]((TEST TEST TEST))[/COLOR]
 http://0.0.0.0:1234
 
 #EXTM3U
-#EXTINF:-1,Yes!
-http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
-#EXTINF:-1,Televentas
-http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_index.m3u8
-#EXTINF:-1,Antena 3 Internacional
-http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
-#EXTINF:-1,Teleantioquia
-http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
-#EXTINF:-1,TV Agro
-http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8
-#EXTINF:-1,Cable Noticias
-http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
-#EXTINF:-1,UNE Pereira
-http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
-#EXTINF:-1,TeleVio
-http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
-#EXTINF:-1,Trendy
-http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
-#EXTINF:-1,TV5 Monde
-http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
-#EXTINF:-1,Canal Antiestres
-http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
-#EXTINF:-1,Tele Medellin
-http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
-#EXTINF:-1,Cosmovision
-http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8
-#EXTINF:-1,Canal U
-http://uneapple-i.akamaihd.net/hls/live/206416/grupoune_st15@206416/st15_index.m3u8
-#EXTINF:-1,Telecafe
-http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8
-#EXTINF:-1,Cantinazo TV
-http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8
-#EXTINF:-1,Life Design HD
-http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m3u8
-#EXTINF:-1,VMas TV
-http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
-#EXTINF:-1,El Tiempo Televisión
-http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
 
-#EXTINF:-1,UNE Play 1
-http://uneapple-i.akamaihd.net/hls/live/207643/grupoune_st24@207643/st24_index.m3u8
-#EXTINF:-1,UNE Play 2
-http://uneapple-i.akamaihd.net/hls/live/207646/grupoune_st27@207646/st27_index.m3u8
-#EXTINF:-1,UNE Play 3
-http://uneapple-i.akamaihd.net/hls/live/215944/grupoune_st33@215944/st33_index.m3u8
-#EXTINF:-1,Natgeo Wild
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
-#EXTINF:-1,Beinsport Latino HD 720
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8#MiCanal
-#EXTINF:-1,Beinsport Latino
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b4628000.m3u8#MiCanal
-#EXTINF:-1,Bein Latino HD 1080
-http://rroso.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/rroso.m3u8#MiCanal
-#EXTINF:-1,beIN Sports Ingles
-http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8#MiKanal
-#EXTINF:-1,beIN Sports
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b3128000.m3u8
+
+
+
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#
-#EXTINF:-1,Ta Te Ti
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TV Peru
-http://iphone-streaming.ustream.tv/uhls/17419715/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,MasTV El Salvador
 http://iphone-streaming.ustream.tv/uhls/8433263/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,HonduVision
 http://iphone-streaming.ustream.tv/ustreamVideo/20555006/streams/live/playlist.m3u8?
-#EXTINF:-1,Azul TV
-http://iphone-streaming.ustream.tv/uhls/15666757/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,TVC LATINO
-rtmp://76.79.146.124/live/TVCSB
 #EXTINF:-1,Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:-1,MTV ROCK
-http://92.50.181.6/tv/1279/index.m3u8
-#EXTINF:-1,MTV DANCE
-http://92.50.181.6/tv/1280/index.m3u8
-#EXTINF:-1,VH1 SHUFFLE
-http://92.50.181.6/tv/1281/index.m3u8
-#EXTINF:-1,Motors TV
-http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2#
-#EXTINF:-1,Canal 2 Mar del Plata
-http://iphone-streaming.ustream.tv/uhls/13284341/streams/live/iphone/playlist.m3u8#
-#EXTINF:-1,Canal 5 Olavarría Argentina
-http://iphone-streaming.ustream.tv/uhls/510556/streams/live/iphone/playlist.m3u8#
 #EXTINF:-1,Telpin Canal 2 HD 720 Pinamar Argentina
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1,TVE 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
-#EXTINF:-1,TV Nuevo León
-http://iphone-streaming.ustream.tv/uhls/6937691/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
 #EXTINF:-1,Canal 2 Valparaiso
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?
 #EXTINF:-1,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
-#EXTINF:-1,Andina TV
-http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8?
-#EXTINF:-1,TVC Deportes
-http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8?
-#EXTINF:-1,Rouge TV
-http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8?
 #EXTINF:-1,Hot Hot Hot
 http://www.djing.com/tv/hothothot.m3u8?
-#EXTINF:-1,Underground
+#EXTINF:-1,Underground Music
 http://www.djing.com/tv/underground.m3u8?
-#EXTINF:-1,Dance Floor
+#EXTINF:-1,Dance Floor Music
 http://www.djing.com/tv/dancefloor.m3u8?
-#EXTINF:-1,Ibiza
+#EXTINF:-1,Ibiza  Music
 http://www.djing.com/tv/ibiza.m3u8?
 #EXTINF:-1,TV Mas
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:-1,DCH TV Chile
-http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?
-#EXTINF:-1,Antena 3
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?
-#EXTINF:-1,Canal Antigua Guatemala
-http://iphone-streaming.ustream.tv/ustreamVideo/1435410/streams/live/playlist.m3u8?
 #EXTINF:-1,Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,TEN Honduras
 http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8?
 #EXTINF:-1,TVX Canal 23 El Salvador
