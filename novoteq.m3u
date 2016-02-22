@@ -486,12 +486,6 @@ http://0.0.0.0:1234
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,Canal 11 Punta del Este Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,CANAL 13 SANTIAGO CHILE
-http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
-#EXTINF:-1,CANAL 13 CHILE OPTION 3
-rtsp://cluster.13movil.ztreaming.com/13mv2/stream1grpz13m29102012.sdp
-#EXTINF:-1,CAMARA DE DIPUTADOS CHILE OPTION 2
-rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
 #EXTINF:-1,ARICA TV CHILE
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 #EXTINF:-1,ANTOFAGASTA TV CANAL 30 CHILE
@@ -502,8 +496,6 @@ http://cdn.streamingmedia.cl:1935/live/rtmp.stream/playlist.m3u8
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
 #EXTINF:-1,TV5 LINARES CHILE
 http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8
-#EXTINF:-1,CONTIVISION SD CONSTITUCION CHILE
-rtsp://v1.tustreaming.cl:1935/contivision/contivision
 #EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE
 http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8
 #EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE OPTION 2
@@ -514,10 +506,8 @@ rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
 #EXTINF:-1,TV PATAGONIA PUNTA ARENAS OPTION 2
 http://69.164.193.177:1935/live/myStream/sat.m3u8
-#EXTINF:-1,Canal 2 XEWTV México
+#EXTINF:-1,Canal 2 XEWTV México / De Las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1,Mex:OCHO TV
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,Once TV Internacional México
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,Chile - EL PINGUINO TV CANAL 4 PUNTA ARENAS
