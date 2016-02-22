@@ -738,6 +738,22 @@ http://0.0.0.0:1234
 
 #EXTM3U
 
+#EXTINF:0, RDS HD
+
+http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8
+
+#EXTINF:0, RDS 2 HD
+
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,HonduVision
 http://iphone-streaming.ustream.tv/ustreamVideo/20555006/streams/live/playlist.m3u8?
