@@ -245,6 +245,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,USA-PAC 12 Oregon (HD) Sport
 http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,BEIN sports
+https://video02-atl.streamup.com/app/athleticss-stream/chunklist.m3u8
 #EXTINF:-1,RPC ACTION Panamá
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:0,Updated:8/2-PAC 12 Arizona
@@ -738,8 +740,10 @@ http://0.0.0.0:1234
 
 #EXTM3U
 
-TSN sport
- https://video02-atl.streamup.com/app/athleticss-stream/chunklist.m3u8
+
+ 
+ TSN sport
+ rtmp://$OPT:rtmp-raw=rtmp://80.82.78.24/live playpath=fre2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php
 
 
 
