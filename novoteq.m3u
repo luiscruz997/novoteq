@@ -814,6 +814,59 @@ http://0.0.0.0:1234
 #EXTM3U
 
 
+#EXTM3U
+#EXTINF:-1,RDS
+http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8
+#EXTINF:-1,RDS2
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
+#EXTINF:-1,RDS Info
+http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
+#EXTINF:-1,TSN1
+#EXTINF:-1,TSN2
+#EXTINF:-1,TSN3
+#EXTINF:-1,TSN4
+#EXTINF:-1,TSN5
+#EXTINF:-1,NHL/NBA/MLB/NFL/NCAA random
+http://204.45.103.90:1935/live/live_hammy/playlist.m3u8
+#EXTINF:-1,Random US TV
+http://107.191.96.127:1935/live/test3/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sportsnet_360.png" group-title="Sports",Sportsnet 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_asia_news.png"group-title="Sports",Fox Sports News
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_ca.png"group-title="cable",CTV Yorkton
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_ca.png"group-title="cable",CTV Edmonton
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/hbo_asia_hd.png"group-title="cable",HBO Asia
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTM3U
