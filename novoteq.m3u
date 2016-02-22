@@ -740,12 +740,16 @@ http://0.0.0.0:1234
 
 #EXTM3U
 
-
- 
- TSN sport
- rtmp://$OPT:rtmp-raw=rtmp://80.82.78.24/live playpath=fre2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php
-
-
+#EXTINF:-1, TSN 1
+ http://37.187.248.101:8080/tsn1.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+ #EXTINF:-1, TSN 2
+ http://37.187.248.101:8080/tsn2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+ #EXTINF:-1, TSN 3
+ http://37.187.248.101:8080/tsn3.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+ #EXTINF:-1, TSN 4
+ http://37.187.248.101:8080/tsn4.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+ #EXTINF:-1, TSN 5
+ http://37.187.248.101:8080/tsn5.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
 
 
 
