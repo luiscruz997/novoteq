@@ -490,18 +490,10 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,ARICA TV CHILE
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-#EXTINF:-1,ANTOFAGASTA TV CANAL 30 CHILE
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
 #EXTINF:-1,VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/playlist.m3u8
-#EXTINF:-1,CAMPUS TV TALCA CHILE
-http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
 #EXTINF:-1,TV5 LINARES CHILE
 http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8
-#EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE
-http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8
-#EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE OPTION 2
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
 #EXTINF:-1,TVU CONCEPCION CHILE
 rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
 #EXTINF:-1,EL PINGUINO TV CANAL 4 PUNTA ARENAS CHILE
@@ -884,6 +876,15 @@ http://www.t12v.com:8000/live/haithem/haithem/278.ts
 rtmp://185.59.222.184/western
 #EXTINF:-1,[COLOR green]farfesh cbc[/COLOR]
 http://50.7.168.162:8081/live2/live2/playlist.m3u8
+#EXTINF:-1,ANTOFAGASTA TV CANAL 30 CHILE
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
+#EXTINF:-1,CAMPUS TV TALCA CHILE
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+#EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE
+http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8
+#EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE OPTION 2
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+
 #EXTINF:-1,CPAC Français
  http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
  #EXTINF:-1,ICI Radio-Canada – Québec – CBVT-DT
