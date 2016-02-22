@@ -814,6 +814,13 @@ http://0.0.0.0:1234
 #EXTM3U
 
 
+
+
+#EXTM3U
+#EXTINF:-1,TSN 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=tsn1x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,TSN 2
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
 #EXTINF:-1,Spt-TSN1_CA
 http://electro-tunis.biz:8000/live/189/189/1260.ts
 #EXTINF:-1,Spt-TSN2_CA
