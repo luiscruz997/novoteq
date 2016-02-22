@@ -484,6 +484,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Telemundo / CanaldelasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
+#EXTINF:-1,HD Telemundo / CanaldelasEstrellas Mex.
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1,Canal 11 Punta del Este Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,ARICA TV CHILE
@@ -506,8 +508,6 @@ rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
 #EXTINF:-1,TV PATAGONIA PUNTA ARENAS OPTION 2
 http://69.164.193.177:1935/live/myStream/sat.m3u8
-#EXTINF:-1,Canal 2 XEWTV México / De Las Estrellas
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1,Once TV Internacional México
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,Chile - EL PINGUINO TV CANAL 4 PUNTA ARENAS
