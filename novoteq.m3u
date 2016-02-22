@@ -740,16 +740,48 @@ http://0.0.0.0:1234
 
 #EXTM3U
 
-#EXTINF:-1, TSN 1
- http://37.187.248.101:8080/tsn1.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
- #EXTINF:-1, TSN 2
- http://37.187.248.101:8080/tsn2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
- #EXTINF:-1, TSN 3
- http://37.187.248.101:8080/tsn3.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
- #EXTINF:-1, TSN 4
- http://37.187.248.101:8080/tsn4.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
- #EXTINF:-1, TSN 5
- http://37.187.248.101:8080/tsn5.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+
+#EXTINF:-1,The Weather Network Canada SD
+ http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer4.m3u8
+ #EXTINF:-1,CPAC Français
+ http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+ #EXTINF:-1,ICI RDI – À partir de 20h les soirs de semaine
+ http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI RDI 400 kbps
+ http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_400_av-p.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI RDI 800 kbps
+ http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_800_av-p.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI RDI 1200 kbps
+ http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI RDI HD
+ http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Québec – CBVT-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Ottawa-Gatineau – CBOFT-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Trois-Rivières – CKTM-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Rimouski – CJBR-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Saguenay (lâ lâ) – CKTV-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Sherbrooke – CKSH-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Montréal
+ http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
+ #EXTINF:-1,TVA Montréal
+ http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+ #EXTINF:-1,City Montreal – En ondes de 6h à 9h les jours de semaine
+ http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
