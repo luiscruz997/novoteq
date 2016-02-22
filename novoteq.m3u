@@ -738,53 +738,7 @@ http://0.0.0.0:1234
 
 #EXTM3U
 
-#EXTINF:0,TSN 1 720 HD
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
-#EXTINF:0,TSN 2 720 HD
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
-#EXTINF:0,TSN 3 720 HD
-http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
-#EXTINF:0,TSN 4 720 HD
-http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
-#EXTINF:0,TSN 5 720 HD
-http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
-#EXTINF:0, RDS 1 HD (French)
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
-#EXTINF:0, RDS Info HD
-http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
-#EXTINF:0, RDS 2 HD (French)
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
-#EXTINF:0, RDS 25 HD (French)
-http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8
-#EXTINF:-1,SPORTSNET 360HD CANADA HD
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF: 0, TNT
-http://peerstv.ufanet.ru/tv/1011/index.m3u8
-#EXTINF: 0, MTV
-http://peerstv.ufanet.ru/tv/1284/index.m3u8
-#EXTINF:-1,MTV
-http://83.139.104.101/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
-#EXTINF: 0, Nickelodeon
-http://peerstv.ufanet.ru/tv/1109/index.m3u8
-#EXTINF: 0, Sports
-http://peerstv.ufanet.ru/tv/1114/index.m3u8
-#EXTINF: 0, Sport 1
-http://peerstv.ufanet.ru/tv/1115/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,MasTV El Salvador
-http://iphone-streaming.ustream.tv/uhls/8433263/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,HonduVision
 http://iphone-streaming.ustream.tv/ustreamVideo/20555006/streams/live/playlist.m3u8?
 #EXTINF:-1,Azteca Noticias
