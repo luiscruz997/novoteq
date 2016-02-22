@@ -740,7 +740,16 @@ http://0.0.0.0:1234
 
 #EXTM3U
 
-
+#EXTINF:0,TSN 1 
+http://02e4.vp9.tv/chn/tsn1/v.m3u8
+#EXTINF:0,TSN 2
+http://02e4.vp9.tv/chn/tsn2/v.m3u8 
+#EXTINF:0,TSN 3 
+http://02e4.vp9.tv/chn/tsn3/v.m3u8 
+#EXTINF:0,TSN 4 
+http://02e4.vp9.tv/chn/tsn4/v.m3u8
+#EXTINF:0,TSN 5 
+http://02e4.vp9.tv/chn/tsn5/v.m3u8
 
 
 
