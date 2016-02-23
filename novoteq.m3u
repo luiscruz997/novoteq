@@ -3,6 +3,26 @@
 http://0.0.0.0:1234
 #EXTM3U
 
+#EXTINF:-1,[COLOR green]ONLY DEMO: sky sport 24 [/COLOR]
+http://www.t12v.com:8000/live/haithem/haithem/278.ts
+#EXTINF:-1,CPAC Français
+ http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+ #EXTINF:-1,ICI Radio-Canada – Québec – CBVT-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Ottawa-Gatineau – CBOFT-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Trois-Rivières – CKTM-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Rimouski – CJBR-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Saguenay (lâ lâ) – CKTV-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Sherbrooke – CKSH-DT
+ http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,ICI Radio-Canada – Montréal
+ http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
+ #EXTINF:-1,TVA Montréal
+ http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 #EXTINF:-1,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,EUROSPORT 1 FR
@@ -161,6 +181,10 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,IQRA ISLAM CHANNEL France Arab
 rtmp://fl1.viastreaming.net:1935/iqraatv3/livestream swfUrl=http://iqraa.com/scripts/jwplayer/jwplayer.flash.swf pageUrl=http://iqraa.com/Livestream/Livestream/africa?lng=en
+#EXTINF:-1,[COLOR green]wes[/COLOR]
+rtmp://185.59.222.184/western
+#EXTINF:-1,[COLOR green]farfesh cbc[/COLOR]
+http://50.7.168.162:8081/live2/live2/playlist.m3u8
 
 
 
@@ -810,30 +834,6 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1,Patagonia Tv Punta Arenas
 http://69.164.193.177:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,[COLOR green]wes[/COLOR]
-rtmp://185.59.222.184/western
-#EXTINF:-1,[COLOR green]farfesh cbc[/COLOR]
-http://50.7.168.162:8081/live2/live2/playlist.m3u8
-#EXTINF:-1,[COLOR green]sky sport 24[/COLOR]
-http://www.t12v.com:8000/live/haithem/haithem/278.ts
-#EXTINF:-1,CPAC Français
- http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
- #EXTINF:-1,ICI Radio-Canada – Québec – CBVT-DT
- http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada – Ottawa-Gatineau – CBOFT-DT
- http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada – Trois-Rivières – CKTM-DT
- http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada – Rimouski – CJBR-DT
- http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada – Saguenay (lâ lâ) – CKTV-DT
- http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada – Sherbrooke – CKSH-DT
- http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada – Montréal
- http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
- #EXTINF:-1,TVA Montréal
- http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 #EXTINF:-1,HonduVision
 http://iphone-streaming.ustream.tv/ustreamVideo/20555006/streams/live/playlist.m3u8?
 #EXTINF:-1,Azteca Noticias
@@ -844,6 +844,9 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
 #EXTINF:-1,Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
+
+
+
 #EXTINF:-1,Canal 2 Valparaiso
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?
 #EXTINF:-1,Capital TV
