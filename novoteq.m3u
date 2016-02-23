@@ -806,107 +806,20 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f11141
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
 #EXTINF:-1, Canal 5 Linares
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
-
-
-
-#EXTINF:-1,Contivision Constitución
-http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
-#EXTINF:-1,Canal 9 Bio Bio
-http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
-#EXTINF:-1,TVU Concepción
-http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
-#EXTINF:-1,Tv 4 Lota
-http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1,Canal 5 Puerto Montt
-http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Aysen Tv Puerto Aysen
-http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
-#EXTINF:-1,ITV Punta Arenas
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 #EXTINF:-1,El Pinguino Tv Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1,Patagonia Tv Punta Arenas
 http://69.164.193.177:1935/live/myStream/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1,RDS
-http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8
-#EXTINF:-1,RDS2
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
-#EXTINF:-1,RDS Info
-http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
-#EXTINF:-1,TSN1
-#EXTINF:-1,TSN2
-#EXTINF:-1,TSN3
-#EXTINF:-1,TSN4
-#EXTINF:-1,TSN5
-#EXTINF:-1,NHL/NBA/MLB/NFL/NCAA random
-http://204.45.103.90:1935/live/live_hammy/playlist.m3u8
-#EXTINF:-1,Random US TV
-http://107.191.96.127:1935/live/test3/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sportsnet_360.png" group-title="Sports",Sportsnet 360
+#EXTINF:-1,Sportsnet 360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_asia_news.png"group-title="Sports",Fox Sports News
+#EXTINF:-1,Fox Sports News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_ca.png"group-title="cable",CTV Yorkton
+#EXTINF:-1,CTV Yorkton
 http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_ca.png"group-title="cable",CTV Edmonton
+#EXTINF:-1,CTV Edmonton
 http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/hbo_asia_hd.png"group-title="cable",HBO Asia
+#EXTINF:-1,HBO Asia
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
 #EXTINF:-1,[COLOR green]sky sport 24[/COLOR]
 http://www.t12v.com:8000/live/haithem/haithem/278.ts
 #EXTINF:-1,[COLOR green]wes[/COLOR]
