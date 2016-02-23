@@ -483,26 +483,10 @@ http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/canalesdelpueblot
 http://0.0.0.0:1234
 
 
-#EXTINF:-1 tvg-logo=”http://i64.tinypic.com/29f8c9h.jpg”,Golden Edge 
-http://latino-webtv.ml/7878/484.m3u8 
-#EXTINF:-1 tvg-logo=”http://i58.tinypic.com/ibgsc0.jpg”,AMC HD 
-http://latino-webtv.ml/7878/490.m3u8 
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/jslztc.jpg”,Studio Universal 
-http://latino-webtv.ml/7878/492.m3u8 
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/2qu3ryx.jpg”,Universal Channel 
-http://latino-webtv.ml/7878/207.m3u8 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2000px-Caracol_TV_HD_logo.svg.png”,Caracol HD 
-http://latino-webtv.ml/7878/caracol.m3u8 
-#EXTINF:-1 tvg-logo=”http://3.bp.blogspot.com/_0LgM-BJnKlI/TGmq7_8s3HI/AAAAAAAAAHU/uh0Vb17tZGY/s1600/rcn.png”,RCN HD 
-http://latino-webtv.ml/7878/rcn.m3u8 
-#EXTINF:-1 tvg-logo=”http://i57.tinypic.com/72vdr4.jpg”,Win Sports HD 
-http://latino-webtv.ml/7878/wins.m3u8 
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/5lrpqq.jpg”,Fox HD 
-http://latino-webtv.ml/7878/201.m3u8 
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/30mv6eu.jpg”,TNT HD 
-http://latino-webtv.ml/7878/435.m3u8
-#EXTINF:-1,TNT HD
-http://ift.tt/1IRFhWN
+#EXTINF:-1, TV Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1,Chile – EL PINGUINO TV CANAL 4 PUNTA ARENAS
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
 
 
