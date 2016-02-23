@@ -529,6 +529,42 @@ rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
 #EXTINF:-1,TV PATAGONIA PUNTA ARENAS OPTION 2
 http://69.164.193.177:1935/live/myStream/sat.m3u8
+#EXTINF:-1,TVN Internacional
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1, Canal 2 Valle Tv San Felipe
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
+#EXTINF:-1, Canal 5 Linares
+rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+#EXTINF:-1,El Pinguino Tv Punta Arenas
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1,Patagonia Tv Punta Arenas
+http://69.164.193.177:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,HonduVision
+http://iphone-streaming.ustream.tv/ustreamVideo/20555006/streams/live/playlist.m3u8?
+#EXTINF:-1,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,Telpin Canal 2 HD 720 Pinamar Argentina
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1,TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
+#EXTINF:-1,Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
+#EXTINF:-1,Canal 2 Valparaiso
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+#EXTINF:-1,Hot Hot Hot
+http://www.djing.com/tv/hothothot.m3u8?
+#EXTINF:-1,Underground Music
+http://www.djing.com/tv/underground.m3u8?
+#EXTINF:-1,Dance Floor Music
+http://www.djing.com/tv/dancefloor.m3u8?
+#EXTINF:-1,Ibiza  Music
+http://www.djing.com/tv/ibiza.m3u8?
+#EXTINF:-1,TV Mas
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:-1,Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 #EXTINF:-1,Once TV Internacional México
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,Chile - EL PINGUINO TV CANAL 4 PUNTA ARENAS
@@ -824,45 +860,6 @@ http://0.0.0.0:1234
 
 #EXTM3U
 
-#EXTINF:-1,TVN Internacional
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1, Canal 2 Valle Tv San Felipe
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
-#EXTINF:-1, Canal 5 Linares
-rtmp://v1.streaminglatinoamerica.com/canal5/canal5
-#EXTINF:-1,El Pinguino Tv Punta Arenas
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1,Patagonia Tv Punta Arenas
-http://69.164.193.177:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,HonduVision
-http://iphone-streaming.ustream.tv/ustreamVideo/20555006/streams/live/playlist.m3u8?
-#EXTINF:-1,Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,Telpin Canal 2 HD 720 Pinamar Argentina
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:-1,TVE 24h
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
-#EXTINF:-1,Kiss TV
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
-
-
-
-#EXTINF:-1,Canal 2 Valparaiso
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
-#EXTINF:-1,Hot Hot Hot
-http://www.djing.com/tv/hothothot.m3u8?
-#EXTINF:-1,Underground Music
-http://www.djing.com/tv/underground.m3u8?
-#EXTINF:-1,Dance Floor Music
-http://www.djing.com/tv/dancefloor.m3u8?
-#EXTINF:-1,Ibiza  Music
-http://www.djing.com/tv/ibiza.m3u8?
-#EXTINF:-1,TV Mas
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:-1,Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 #EXTINF:-1,TVX Canal 23 El Salvador
 http://panel.elsalvadordigital.com:1935/canal23/canal23/playlist.m3u8
 #EXTINF:-1,C7 Noticias
