@@ -809,23 +809,23 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 
 
 
-#EXTINF:-1, Contivision Constitución
+#EXTINF:-1,Contivision Constitución
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
-#EXTINF:-1 group-title="CHILE",Canal 9 Bio Bio
+#EXTINF:-1,Canal 9 Bio Bio
 http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
-#EXTINF:-1, TVU Concepción
+#EXTINF:-1,TVU Concepción
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
-#EXTINF:-1, Tv 4 Lota
+#EXTINF:-1,Tv 4 Lota
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1, Canal 5 Puerto Montt
+#EXTINF:-1,Canal 5 Puerto Montt
 http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, Aysen Tv Puerto Aysen
+#EXTINF:-1,Aysen Tv Puerto Aysen
 http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
-#EXTINF:-1, ITV Punta Arenas
+#EXTINF:-1,ITV Punta Arenas
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
-#EXTINF:-1, El Pinguino Tv Punta Arenas
+#EXTINF:-1,El Pinguino Tv Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1, Patagonia Tv Punta Arenas
+#EXTINF:-1,Patagonia Tv Punta Arenas
 http://69.164.193.177:1935/live/myStream/playlist.m3u8
 
 
