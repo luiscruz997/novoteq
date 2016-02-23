@@ -510,6 +510,8 @@ http://0.0.0.0:1234
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1,HD TV Chile
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1,Chil:LA RED HD
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/
 #EXTINF:-1,HD Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,HD TV Mas
@@ -518,6 +520,14 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1,HD Telpin Canal2 HD 720 Pinamar Argentina
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1,HD 720 Canal 11 Punta del Este Uruguay
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,HD CANAL ONCE MEX
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,HD 720 HCH Honduras
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+#EXTINF:-1,HD Dance Floor Music
+http://www.djing.com/tv/dancefloor.m3u8?
 #EXTINF:-1,HD Kiss TV (Music)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
 #EXTINF:-1,HD 720 TVE 24h
@@ -528,22 +538,40 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,HD 720 Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
-#EXTINF:-1,HD 720 Dance Floor Music
-http://www.djing.com/tv/dancefloor.m3u8?
 #EXTINF:-1,HD 720 Underground Music
 http://www.djing.com/tv/underground.m3u8?
-#EXTINF:-1,Canal 11 Punta del Este Uruguay
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Chile – EL PINGUINO TV CANAL 4 PUNTA ARENAS
+#EXTINF:-1,TVU CONCEPCION CHILE
+rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
+#EXTINF:-1,HD 720 Chile–EL PINGUINO TV CANAL 4 PUNTA ARENAS
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1,HD 720 Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
+#EXTINF:-1,HD 720 TeleCaribe Colombia
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1,HD 720 Azteca 7 Monterrey México
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1,HD 720 COL:TeleCaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1,HD 720 AZTECA NOTICIAS MEX
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,HD Mex:TVMas
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,HD 720 UNIVERSAL PELICULAS 
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:0,HD ARIRANG
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+#EXTINF:-1,HD TV MAS México
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:0,HD?  tvn Chile
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8?
+#EXTINF:-1,HD? TVN Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b500000.m3u8
 #EXTINF:-1,Telemundo / CanaldelasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1,TV5 LINARES CHILE
 http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8
-#EXTINF:-1,TVU CONCEPCION CHILE
-rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
 #EXTINF:-1,EL PINGUINO TV CANAL 4 PUNTA ARENAS CHILE
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
 #EXTINF:-1,TV PATAGONIA PUNTA ARENAS OPTION 2
@@ -564,22 +592,12 @@ http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?
 http://www.djing.com/tv/hothothot.m3u8?
 #EXTINF:-1,Ibiza  Music
 http://www.djing.com/tv/ibiza.m3u8?
-#EXTINF:-1,Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 #EXTINF:-1,Chile - EL PINGUINO TV CANAL 4 PUNTA ARENAS
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/HasBahCa.m3u8
 #EXTINF:-1,Mex:TVMas VERACRUZ
 http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
 #EXTINF:-1,Tele Antillas Rep. Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,TeleCaribe Colombia
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1,Azteca 7 Monterrey México
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1,COL:TeleCaribe
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:0,tvn
-http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8?
 #EXTINF:-1, Rep. Dominicana:Teleantillas Canal 2
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
 #EXTINF:-1,Canal 2 Internac. Nicaragua
@@ -592,16 +610,6 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,Argentina:Canal 4 HD 720 Jujuy
 rtmp://streaming.wirenetserver.com.ar/canal4/live_1
-#EXTINF:-1,Mex:AZTECA NOTICIAS HD
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,Chil:CANAL 9 HD
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
-#EXTINF:-1,CHILE:TVN
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b500000.m3u8
-#EXTINF:-1,Mex:CANAL ONCE
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:-1,Mex:TVMas HD
-rtmp://50.7.98.234/rtv/videortv
 #EXTINF:-1,Esp:EXTREMADURA TV
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:-1,CR:Colosal TV Costa Rica
@@ -612,12 +620,6 @@ http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u
 http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,VEN:Canal i Venezuela
 rtmp://edge.wms28.lorini.net/canal-i/canal-i
-#EXTINF:-1,Latino:UNIVERSAL MOVIES 
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:0,ARIRANG HD
-http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
-#EXTINF:-1,TV MAS México
-rtmp://50.7.98.234/rtv/videortv
 #EXTINF:-1,Telemar Campeche México
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
 #EXTINF:-1,Capital 21 México
@@ -642,12 +644,8 @@ rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.
 rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
 #EXTINF:-1,Arg:C5N
 rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,Chil:LA RED HD
-rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/
 #EXTINF:-1,Chil:TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
-#EXTINF:-1,Chil:BIO BIO TV CONCEPCION
-http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
 #EXTINF:-1,Chil:VTV2
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 #EXTINF:-1,Dom:Teleantillas Canal 2
@@ -744,8 +742,6 @@ rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 #EXTINF:-1,TV Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-#EXTINF:-1,HCH Honduras
-http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 
 
 
