@@ -804,24 +804,11 @@ http://0.0.0.0:1234
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:-1, Canal 2 Valle Tv San Felipe
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
-
-
-
-
-#EXTINF:-1, Girovisual El Quisco
-http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestream1/playlist.m3u8
-#EXTINF:-1, Independencia TV
-http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
-#EXTINF:-1,Sub Tv Santiago
-mmsh://190.196.9.186:8080/subtv
-#EXTINF:-1, Canal 2 San Antonio
-rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
-#EXTINF:-1, TVO San Vicente de tagua Tagua
-http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
-#EXTINF:-1, Campus Tv Universidad de Talca
-http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
 #EXTINF:-1, Canal 5 Linares
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+
+
+
 #EXTINF:-1, Contivision Constitución
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
 #EXTINF:-1 group-title="CHILE",Canal 9 Bio Bio
