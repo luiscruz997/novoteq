@@ -810,31 +810,12 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1,Patagonia Tv Punta Arenas
 http://69.164.193.177:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,Sportsnet 360
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:-1,Fox Sports News
-http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
-#EXTINF:-1,CTV Yorkton
-http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
-#EXTINF:-1,CTV Edmonton
-http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
-#EXTINF:-1,HBO Asia
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-#EXTINF:-1,[COLOR green]sky sport 24[/COLOR]
-http://www.t12v.com:8000/live/haithem/haithem/278.ts
 #EXTINF:-1,[COLOR green]wes[/COLOR]
 rtmp://185.59.222.184/western
 #EXTINF:-1,[COLOR green]farfesh cbc[/COLOR]
 http://50.7.168.162:8081/live2/live2/playlist.m3u8
-#EXTINF:-1,ANTOFAGASTA TV CANAL 30 CHILE
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
-#EXTINF:-1,CAMPUS TV TALCA CHILE
-http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
-#EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE
-http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8
-#EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE OPTION 2
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
-
+#EXTINF:-1,[COLOR green]sky sport 24[/COLOR]
+http://www.t12v.com:8000/live/haithem/haithem/278.ts
 #EXTINF:-1,CPAC Français
  http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
  #EXTINF:-1,ICI Radio-Canada – Québec – CBVT-DT
