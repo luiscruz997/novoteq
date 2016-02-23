@@ -802,24 +802,12 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,TVN Internacional
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1,Mega
-http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1,CHV
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1,Canal 13
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1,Canal 13 Cable
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1,Digital Channel Tv Antofagasta
-http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1, Antofagasta Tv
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
-#EXTINF:-1, Holvoet Copiapo
-http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
 #EXTINF:-1, Canal 2 Valle Tv San Felipe
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
-#EXTINF:-1, Quinta Vision Viña del Mar
-http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+
+
+
+
 #EXTINF:-1, Girovisual El Quisco
 http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestream1/playlist.m3u8
 #EXTINF:-1, Independencia TV
