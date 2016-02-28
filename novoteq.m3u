@@ -978,27 +978,9 @@ http://0.0.0.0:1234
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Vivra TV
-http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,Radio y Televisión de Querétaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8?
 
-#EXTINF:-1,Canal 9
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8?
 
 
 
@@ -1007,20 +989,6 @@ http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8?
 
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Aragon TV
-http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8#
-#EXTINF:-1,Television Canaria
-http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8#
 #EXTINF:-1,Hispan TV
 rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4×3-SDh
 #EXTINF:-1,Canal 10 España
