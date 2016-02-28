@@ -746,6 +746,126 @@ rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 #EXTINF:-1,TV Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1,ARICA TV CHILE
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:-1,C7 Noticias
+http://74.63.97.188:1935/c7/videoc7/chunklist_w1292887050_b125000.m3u8?
+#EXTINF:-1,C7 Cultura
+http://74.63.97.188:1935/gnode05/videognode05/playlist_b125000.m3u8?
+#EXTINF:-1,TV Galicia
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8?
+#EXTINF:-1,Extremadura Televisión
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8?
+#EXTINF:-1,Andalucia TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8?
+#EXTINF:-1,TeleAntillas
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
+#EXTINF:-1,Television Mexiquense
+http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/playlist.m3u8?
+#EXTINF:-1,XPERTV Canal 33
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
+#EXTINF:-1,Capital 21
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8?
+#EXTINF:-1,Telemetro
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
+#EXTINF:-1,DW
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+#EXTINF:-1,TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8?
+#EXTINF:-1,TVN  Chile
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8?
+#EXTINF:-1,La Red
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist.m3u8?
+#EXTINF:-1,SINART Canal Trece
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+#EXTINF:-1,EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8?
+#EXTINF:-1,ExtraTV Canal 42
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:-1,Canal 13 Nicaragua
+http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8?
+#EXTINF:-1,HD Canal Once Internacional Mex
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8?
+#EXTINF:-1,SMO TV
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:-1,Colosal TV Costa Rica
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,Info7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+#EXTINF:-1,Canal 2 Los Mochis
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8?
+#EXTINF:-1,Canal 2 Ciudad Obregon
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+#EXTINF:-1,Canal 7 Mazatlan
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1,Telemar Mexico
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
+#EXTINF:-1,Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8?
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
+#EXTINF:-1,Ecuavisa
+rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
+#EXTINF:-1,RPC TV
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
+#EXTINF:-1,CDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1,Megavision
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,TVO Canal 23
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal U
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#
+#EXTINF:-1,Arica TV
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:-1,Teleamiga
+http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
+#EXTINF:-1,CTNi Religion PuertoRico
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:-1,HD TN Argentina
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1,HD C5N
+http://c5n.stweb.tv:1935/c5n/live/playlist.m3u8
+#EXTINF:-1,HCH Honduras  Religion
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+#EXTINF:-1,Teveo
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Tv UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,Televisión Nacional de Ecuador
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8#
+#EXTINF:-1,UCV Satelital
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:-1,Red PAT Bolivia
+http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
+#EXTINF:-1,Magazine Argenina
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:-1,Telesecundaria
+http://dl-dgtve.xsn.com.mx/dgtve/canal11dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,TVDocencia
+http://dl-dgtve.xsn.com.mx/dgtve/canal12dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,Telebachillerato
+http://dl-dgtve.xsn.com.mx/dgtve/canal17dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,TVUniversidad
+http://dl-dgtve.xsn.com.mx/dgtve/canal22dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,Telesecundaria+
+http://dl-dgtve.xsn.com.mx/dgtve/canal27dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,Aprende
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,Ingenio
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,HD Musica SI  (music)
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1,Peliculas en Español
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,CampusTV
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8?
+#EXTINF:-1,El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+#EXTINF:-1,Enlace Juvenil (Music)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?
+#EXTINF:-1,Teledunamis (Religion)
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?
 
 
 
@@ -855,153 +975,30 @@ http://0.0.0.0:1234
 
 #EXTM3U
 
-#EXTINF:-1,TVX Canal 23 El Salvador
-http://panel.elsalvadordigital.com:1935/canal23/canal23/playlist.m3u8
-#EXTINF:-1,ARICA TV CHILE
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-#EXTINF:-1,C7 Noticias
-http://74.63.97.188:1935/c7/videoc7/chunklist_w1292887050_b125000.m3u8?
-#EXTINF:-1,C7 Cultura
-http://74.63.97.188:1935/gnode05/videognode05/playlist_b125000.m3u8?
-#EXTINF:-1,TV Galicia
-http://media3.crtvg.es/live/tvga/hasbahca.m3u8?
-#EXTINF:-1,Extremadura Televisión
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8?
-#EXTINF:-1,Andalucia TV
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8?
-#EXTINF:-1,Canal 9
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8?
-#EXTINF:-1,TeleAntillas
-http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
-#EXTINF:-1,Television Mexiquense
-http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/playlist.m3u8?
-#EXTINF:-1,Ocho TV
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8?
-#EXTINF:-1,XPERTV Canal 33
-http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
-#EXTINF:-1,Capital 21
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8?
-#EXTINF:-1,Telemetro
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
-#EXTINF:-1,Teleprogreso
-http://162.212.176.83:8080/teleprogreso.m3u8?
-#EXTINF:-1,DW
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
-#EXTINF:-1,TV Chile
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8?
-#EXTINF:-1,TVN  Chile
-http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8?
-#EXTINF:-1,La Red
-http://wow1.lax.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist.m3u8?
-#EXTINF:-1,SINART Canal Trece
-http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
-#EXTINF:-1,EWTN
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8?
-#EXTINF:-1,ExtraTV Canal 42
-http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
-#EXTINF:-1,Canal 13 Nicaragua
-http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8?
-#EXTINF:-1,Canal Once Internacional
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8?
-#EXTINF:-1,SMO TV
-http://199.217.118.90:1935/smotv/stream/playlist.m3u8
-#EXTINF:-1,Colosal TV Costa Rica
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-#EXTINF:-1,Info7
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1,Canal 2 Los Mochis
-http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8?
-#EXTINF:-1,Canal 2 Ciudad Obregon
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
-#EXTINF:-1,Canal 7 Mazatlan
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-#EXTINF:-1,Canal 7 SLP
-rtmp://187.188.159.113/live/ playpath=web.sdp  swfUrl=http://canal7slp.com/wp-content/themes/canal7slp/js/jwplayer/jwplayer.flash.swf  pageUrl=http://canal7slp.com/
-#EXTINF:-1,Telemar Mexico
-http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
-#EXTINF:-1,Canal del Congreso
-http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8?
-#EXTINF:-1,Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
-#EXTINF:-1,Ecuavisa
-rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
-#EXTINF:-1,RPC TV
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
-#EXTINF:-1,CDN
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:-1,Canal 2 Internacional
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1,Megavision
-http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,TVO Canal 23
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal U
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#
-#EXTINF:-1,Canal 5 Linares
-rtmp://v1.streaminglatinoamerica.com/canal5/canal5
-#EXTINF:-1,Arica TV
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-#EXTINF:-1,Canal Once Punta del Este
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
-#EXTINF:-1,CDN Sports
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1,Teleamiga
-http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
-#EXTINF:-1,CTNi Religion
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
-#EXTINF:-1,TN Argentina
-rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1,C5N
-http://c5n.stweb.tv:1935/c5n/live/playlist.m3u8
-#EXTINF:-1,HCH Honduras  Religion
-http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
-#EXTINF:-1,Teveo
-http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Tv UNO
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,Televisión Nacional de Ecuador
-http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8#
-#EXTINF:-1,UCV Satelital
-http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:-1,Red PAT Bolivia
-http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
-#EXTINF:-1,Magazine Argenina
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:-1,Canal 5 Tigre
-http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/iphone/playlist.m3u8#
-#EXTINF:-1,Telesecundaria
-http://dl-dgtve.xsn.com.mx/dgtve/canal11dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,TVDocencia
-http://dl-dgtve.xsn.com.mx/dgtve/canal12dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,Telebachillerato
-http://dl-dgtve.xsn.com.mx/dgtve/canal17dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,TVUniversidad
-http://dl-dgtve.xsn.com.mx/dgtve/canal22dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,Telesecundaria+
-http://dl-dgtve.xsn.com.mx/dgtve/canal27dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,Aprende
-http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,Ingenio
-http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,Musica SI
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:-1,Peliculas en Español
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,CampusTV
-http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8?
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
-#EXTINF:-1,Enlace Juvenil
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?
-#EXTINF:-1,Antofagasta TV
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
-#EXTINF:-1,Teledunamis
-http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Vivra TV
 http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,Radio y Televisión de Querétaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8?
 
+#EXTINF:-1,Canal 9
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8?
 
 
 
