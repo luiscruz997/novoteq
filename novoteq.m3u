@@ -508,6 +508,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,HD Telemundo/CanaldelasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1, Telemundo Test
+http://latino-webtv.ml/live/353.m3u8
 #EXTINF:-1,HD TV Chile
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:-1,HD TV Chile TEST!
