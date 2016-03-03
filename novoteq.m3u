@@ -510,7 +510,7 @@ http://0.0.0.0:1234
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1, UNIVISION
 https://video04-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
-#EXTINF:-1, LATIN MOVIES
+#EXTINF:-1,HD LATIN MOVIES
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-1,HD TV Chile
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
