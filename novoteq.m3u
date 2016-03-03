@@ -984,6 +984,11 @@ http://0.0.0.0:1234
 
 
 
+#EXTINF:-1, History
+http://latino-webtv.ml/live/353.m3u8
+
+
+
 #EXTINF:-1,Radio y Televisión de Querétaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8?
 
