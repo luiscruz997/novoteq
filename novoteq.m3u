@@ -986,6 +986,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, History
 http://latino-webtv.ml/live/353.m3u8
+#EXTINF:-1,LCN
+rtmp://cp39414.live.edgefcs.net/live/lcn1@9753/ playpath=lcn1@9753 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/lcn.html
 #EXTINF:-1,Bein 8 Test sport
 http://live01.pushpublish.tv/mylive/bein8/playlist.m3u8
 #EXTINF:-1,Bein 1 Test sport
