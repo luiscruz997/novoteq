@@ -986,8 +986,14 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, History
 http://latino-webtv.ml/live/353.m3u8
-#EXTINF:-1, Test sport
+#EXTINF:-1,Bein 8 Test sport
 http://live01.pushpublish.tv/mylive/bein8/playlist.m3u8
+#EXTINF:-1,Bein 8 Test sport
+http://85.132.67.123:1935/live/be01/playlist.m3u8
+#EXTINF:-1,Bein 8 Test sport
+http://live01.pushpublish.tv/mylive/bein7/playlist.m3u8
+#EXTINF:-1,Bein 8 Test sport
+http://85.132.67.123:1935/live/be02/playlist.m3u8
 #EXTINF:-1,Radio y Televisión de Querétaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8?
 
