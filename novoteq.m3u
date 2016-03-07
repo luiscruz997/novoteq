@@ -986,6 +986,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, History
 http://latino-webtv.ml/live/353.m3u8
+#EXTINF:-1, National Geographic Channel
+http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1658982456&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMTYgMTozMTozOSBBTSZoYXNoX3ZhbHVlPVpiR2FWVTlGaVBXdk1JZWc5aWw2YUE9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
 #EXTINF:-1, TRU Tv HD
 http://live-1183.gv2.edge.filmon.com/live/3707.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3472d64521f0439c4f582f38a44dc91b0d87d8d580d8228747cd7cc896ea6b499e3034e455b8326671acb6c417d664129e74ac48efa83c4b76c50d8312edbb55ac206b54b23ff50294e9049c85164064657abb6f549276b10d37908d8febea9429018b146c3a498ee58542ffe0016c3b03709b3094376211c
 #EXTINF:-1,HD PBS WIS !
