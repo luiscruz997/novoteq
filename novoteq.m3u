@@ -1004,6 +1004,8 @@ http://live-823.gv2.edge.filmon.com/live/836.high.stream/playlist.m3u8?id=035bca
 http://live-1192.gv2.edge.filmon.com/live/27.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad69184c90eb99b44b17447b18d25435acd2e027e5cc6e31efef35967409ff72c4770661caca3e76df0f7f161f3dae90f3662b82254ae4f416e57d237bb02a3a9309a385ad9da21c076e2dcaf99124397283e7b28430629feb6349a49a0b7ebfd4c419d3bca7a1939160f0dc849f0ebbdd0d0
 #EXTINF:-1,Adult Swim
 http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Poker
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1,Film 
 http://live-823.gv2.edge.filmon.com/live/13.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad69187535b178347c7f538ff392c0a7e48fddbfbb3145081948c82eda4af37fad2df54bb7e8213b6cc9b992e796fe29b5773516057ed310621ec8516d82df5ea0dc7571f012f2eeeaffcb2343023c56b247022170a58a636646d395310d29428a5f7f0af251ca05057d9d86cfd68ba989cda
 #EXTINF:-1,TV5 France
