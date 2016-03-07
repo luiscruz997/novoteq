@@ -988,6 +988,10 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, History
 http://latino-webtv.ml/live/353.m3u8
+#EXTINF:-1,TV5 France
+http://live-1183.gv2.edge.filmon.com/live/517.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fa23e2ec37d98ba3d18c917e27785677da8890353777f34a898a5fbceeb90a4aa7bf7425d96bf15082fee56c4e8e70afc3892e48431aedb15242a37b565730e13049ebbd3b1ab3e0833639744370d71d3ec5e9b64b20da6314bad45d4090d700d1e28c744df6b7030f57bbb67acd2fd0059f3b9f94b92684
+#EXTINF:-1, Arte HD
+http://live-1192.gv2.edge.filmon.com/live/1729.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad6916cef0b5c0117289d6eef889d476a55d92ece033acbcaf70cd1d333d500f5527521c22ae2032f03bcf9bd9ac300671aa795cc0fff24d735b4a0b8dfe5f2d96fef6714cc6a4bdf739ec851fe9166d94cbb1eaee93fc9f4f7e32880f94d0718fd8743c91be4736dd7344c76b750bccab053
 #EXTINF:-1, National Geographic Channel
 http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1658982456&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMTYgMTozMTozOSBBTSZoYXNoX3ZhbHVlPVpiR2FWVTlGaVBXdk1JZWc5aWw2YUE9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
 #EXTINF:-1, TRU Tv HD
