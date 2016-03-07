@@ -986,7 +986,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, History
 http://latino-webtv.ml/live/353.m3u8
-#EXTINF:-1,HD PBS WIS 
+#EXTINF:-1,HD PBS WIS !
 http://livestream.com/accounts/13897710/events/4153577/player?autoPlay=true&mute=false
 #EXTINF:-1,HD Travel Channel
 http://live-823.gv2.edge.filmon.com/live/842.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d33bf465040bcbdead9de4b0afbf3ecfc814cb9172e1f642ea8923dd18769ff21a703b53217600ef216738689c0db4ee769b17df0d211f8b3084ddda46aa84e209fab0266b9ff53a93a5ab8cc47957b95f25a896b2edbc05488d2dd3263c52003a5894d808d118068719a196d222b796458bb6b0fe6c725a40
