@@ -986,8 +986,12 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, History
 http://latino-webtv.ml/live/353.m3u8
-#EXTINF:-1, CTV
+#EXTINF:-1,Aljazeera
+http://live-823.gv2.edge.filmon.com/live/4.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3cdae03c1adef360720df0dc486a506f0ce120e16fe6f7240ddf49bc3a981c53ff1f3c069fdac3817b27352a3f9823f465e671ea756e2cb0e8e6bd90f70b10db7a51dd663adb4e26e8d1cfe0641e3cf5f000bdb4ee72eebd436fc28ffcfcd804023e0c165eca65d1ade1428a4cb3b126d9dc875d46f06d6ce
+#EXTINF:-1,CTV
 http://live-1130.la2.edge.filmon.com/live/2053.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3cdae03c1adef3607fb3a0812a3642186a858e60517f2be3c312cc3e24fc9d8d56a7ed8e7026afa403377afd9befc9d3a7e7ed730e96407e0fec59635baac575828a1e8b322911f3be7f839802cdb63852756d3051e4929a3bbffc9d2b194a01433be140071baad903649817c29bf9de8faee9c81d0931692
+#EXTINF:-1,TYC Sports
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/chunklist-b2656000.m3u8
 #EXTINF:-1,National Geographic Channel (Day 2)
 http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1187561661&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTYgMTo1MTo0MCBBTSZoYXNoX3ZhbHVlPXhLcXUwNS91bGc5SnNvbmF3ekVFVnc9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
 #EXTINF:-1, NATIONAL GEOGRAPHIC CHANNEL (Day1)
