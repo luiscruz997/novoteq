@@ -990,12 +990,16 @@ http://latino-webtv.ml/live/353.m3u8
 http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1187561661&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTYgMTo1MTo0MCBBTSZoYXNoX3ZhbHVlPXhLcXUwNS91bGc5SnNvbmF3ekVFVnc9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
 #EXTINF:-1, NATIONAL GEOGRAPHIC CHANNEL (Day1)
 http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1658982456&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMTYgMTozMTozOSBBTSZoYXNoX3ZhbHVlPVpiR2FWVTlGaVBXdk1JZWc5aWw2YUE9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
+#EXTINF:-1, Bein Sports
+http://93.190.141.71:1935/live/beinusa.stream/playlist.m3u8?wowzasessionid=240673786&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTYgMjo0MTozOSBBTSZoYXNoX3ZhbHVlPXhCQWh2Z1M2eXF1WmNGdkFua3A2U2c9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
 #EXTINF:-1,Food Network
 http://live-1180.gv2.edge.filmon.com/live/20.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad691fcc8c0db02eb900566f859f2406e624e4f9f674c7ef0040fb735a854b0b0ef18271c114e9b493302c8ad8f6f100b5d85d44f7794103533c1046bee1c55758261834eb17d0fd8870910fd5a58ee63997fe442fe0401ee9933688aa845507b314a1ffb45e6ed7d3c924e37c9e1a9366410
 #EXTINF:-1,Animal Planet (Day1)
 http://93.190.141.71:1935/live/ap.stream/playlist.m3u8?wowzasessionid=270615265&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMTYgNDoyMTozOCBBTSZoYXNoX3ZhbHVlPUxLcExyTGZBa3FNNGdGMUx6M0l5Y0E9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
 #EXTINF:-1,Animal Planet (Day2)
 http://93.190.141.71:1935/live/ap.stream/playlist.m3u8?wowzasessionid=2138833200&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTYgMjowMTozOSBBTSZoYXNoX3ZhbHVlPXkrdzJmUmJ4bHlsNHFtb2xVdnNsQmc9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
+#EXTINF:-1, WWF!
+http://crichd.tv/update/wwe.php?width=700&height=480
 #EXTINF:-1, BBC1
 http://live-1183.gv2.edge.filmon.com/live/14.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad6919cc850594290378e0aeea78bd88cfa62e04fe2540a1483a274fbacd8261491e37d34c65c70a12fd3d227876dfe05b6e63422817265373a6a51d710df3b17a5c9d162b6dc0cc4e9b7a73574f964f5b04128f3c5dbcf139ad54c6c14c1e3e007dcd7c80dfe303ce789bcffa485efcdc6f6
 #EXTINF:-1, BBC2
