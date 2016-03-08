@@ -7,8 +7,6 @@ http://0.0.0.0:1234
 http://www.t12v.com:8000/live/haithem/haithem/278.ts
 #EXTINF:-1,CPAC Français
  http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
-#EXTINF:-1, NATIONAL GEOGRAPHIC CHANNEL
-http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1658982456&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMTYgMTozMTozOSBBTSZoYXNoX3ZhbHVlPVpiR2FWVTlGaVBXdk1JZWc5aWw2YUE9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
  #EXTINF:-1,ICI Radio-Canada – Québec – CBVT-DT
  http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
  #EXTINF:-1,ICI Radio-Canada – Ottawa-Gatineau – CBOFT-DT
@@ -988,6 +986,10 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, History
 http://latino-webtv.ml/live/353.m3u8
+#EXTINF:-1,National Geographic Channel (Day 2)
+http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1187561661&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTYgMTo1MTo0MCBBTSZoYXNoX3ZhbHVlPXhLcXUwNS91bGc5SnNvbmF3ekVFVnc9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
+#EXTINF:-1, NATIONAL GEOGRAPHIC CHANNEL (Day1)
+http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1658982456&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMTYgMTozMTozOSBBTSZoYXNoX3ZhbHVlPVpiR2FWVTlGaVBXdk1JZWc5aWw2YUE9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
 #EXTINF:-1,Food Network
 http://live-1180.gv2.edge.filmon.com/live/20.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad691fcc8c0db02eb900566f859f2406e624e4f9f674c7ef0040fb735a854b0b0ef18271c114e9b493302c8ad8f6f100b5d85d44f7794103533c1046bee1c55758261834eb17d0fd8870910fd5a58ee63997fe442fe0401ee9933688aa845507b314a1ffb45e6ed7d3c924e37c9e1a9366410
 #EXTINF:-1,Animal Planet
