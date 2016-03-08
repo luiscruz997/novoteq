@@ -986,6 +986,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, History
 http://latino-webtv.ml/live/353.m3u8
+#EXTINF:-1, CTV
+http://live-1130.la2.edge.filmon.com/live/2053.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3cdae03c1adef3607fb3a0812a3642186a858e60517f2be3c312cc3e24fc9d8d56a7ed8e7026afa403377afd9befc9d3a7e7ed730e96407e0fec59635baac575828a1e8b322911f3be7f839802cdb63852756d3051e4929a3bbffc9d2b194a01433be140071baad903649817c29bf9de8faee9c81d0931692
 #EXTINF:-1,National Geographic Channel (Day 2)
 http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1187561661&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTYgMTo1MTo0MCBBTSZoYXNoX3ZhbHVlPXhLcXUwNS91bGc5SnNvbmF3ekVFVnc9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
 #EXTINF:-1, NATIONAL GEOGRAPHIC CHANNEL (Day1)
