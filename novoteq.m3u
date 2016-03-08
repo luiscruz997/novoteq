@@ -986,6 +986,14 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, History
 http://latino-webtv.ml/live/353.m3u8
+#EXTINF:-1,Tyc Sports Argentina
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/chunklist-b2656000.m3u8
+#EXTINF:-1,Canal 9 Argentina
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:-1,DxTV  Argentina
+http://186.33.227.193/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMTYgMTo1MTo0OSBQTSZoYXNoX3ZhbHVlPTJxaDNvYU9aTU4yTjJkUTNVZ1lsUWc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1,TVP Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist.m3u8
 #EXTINF:-1,Aljazeera
 http://live-823.gv2.edge.filmon.com/live/4.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3cdae03c1adef360720df0dc486a506f0ce120e16fe6f7240ddf49bc3a981c53ff1f3c069fdac3817b27352a3f9823f465e671ea756e2cb0e8e6bd90f70b10db7a51dd663adb4e26e8d1cfe0641e3cf5f000bdb4ee72eebd436fc28ffcfcd804023e0c165eca65d1ade1428a4cb3b126d9dc875d46f06d6ce
 #EXTINF:-1,CTV
