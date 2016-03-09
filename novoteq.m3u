@@ -506,18 +506,24 @@ http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/canalesdelpueblot
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“LATINOS”,[COLOR pink](( LATINOS ))[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,HD Telemundo/CanaldelasEstrellas Mex.
+#EXTINF:-1,Option#1 HD Telemundo/CanaldelasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,Option#2 HD Telemundo/CanaldelasEstrellas Mex.
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,UNIVISION
 http://video04-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
+#EXTINF:-1,HD AZTECA NOTICIAS Mexico
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,HD ANTENA 3 España
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-1,HD TV Chile
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1,Chil:LA RED HD
+#EXTINF:-1,Option#1 HD LA RED  Chile
 rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/
-#EXTINF:-1,Chil:LA RED HD TEST!
+#EXTINF:-1,Option#2 HD LA RED  Chile
 http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/mp4:livestream1/playlist.m3u8
+#EXTINF:-1,Option#3 HD LA RED  Chile
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u
 #EXTINF:-1,HD Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,HD TV Mas
@@ -536,8 +542,6 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 http://www.djing.com/tv/dancefloor.m3u8?
 #EXTINF:-1,HD Kiss TV (Music)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
-#EXTINF:-1,HD 720 TVE 24h
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
 #EXTINF:-1,HD 720 TVE 24h Espa
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,HD Once TV Internacional México
@@ -546,7 +550,7 @@ http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
 #EXTINF:-1,HD 720 Underground Music
 http://www.djing.com/tv/underground.m3u8?
-#EXTINF:-1,TVU CONCEPCION CHILE
+#EXTINF:-1,50% TVU CONCEPCION CHILE
 rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
 #EXTINF:-1,HD 720 Chile–EL PINGUINO TV CANAL 4 PUNTA ARENAS
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
@@ -554,48 +558,54 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 #EXTINF:-1,HD 720 TeleCaribe Colombia
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1,HD 720 Azteca 7 Monterrey México
+#EXTINF:-1,60% 720 Azteca 7 Monterrey México
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1,HD 720 COL:TeleCaribe
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 #EXTINF:-1,HD 720 AZTECA NOTICIAS MEX
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,HD Mex:TVMas
+#EXTINF:-1,Canal 9 Argentina
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:-1,DxTV  Argentina
+http://186.33.227.193/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMTYgMTo1MTo0OSBQTSZoYXNoX3ZhbHVlPTJxaDNvYU9aTU4yTjJkUTNVZ1lsUWc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1,Aljazeera
+http://live-823.gv2.edge.filmon.com/live/4.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3cdae03c1adef360720df0dc486a506f0ce120e16fe6f7240ddf49bc3a981c53ff1f3c069fdac3817b27352a3f9823f465e671ea756e2cb0e8e6bd90f70b10db7a51dd663adb4e26e8d1cfe0641e3cf5f000bdb4ee72eebd436fc28ffcfcd804023e0c165eca65d1ade1428a4cb3b126d9dc875d46f06d6ce
+#EXTINF:-1,CTV
+http://live-1130.la2.edge.filmon.com/live/2053.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3cdae03c1adef3607fb3a0812a3642186a858e60517f2be3c312cc3e24fc9d8d56a7ed8e7026afa403377afd9befc9d3a7e7ed730e96407e0fec59635baac575828a1e8b322911f3be7f839802cdb63852756d3051e4929a3bbffc9d2b194a01433be140071baad903649817c29bf9de8faee9c81d0931692
+#EXTINF:-1,Adult Swim
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Poker
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+#EXTINF:-1,HD Sports Bein
+http://85.132.67.123:1935/live/be01/playlist.m3u8
+#EXTINF:-1,PleaseWait5sec,HD Mex:TVMas
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1,HD 720 UNIVERSAL PELICULAS 
+#EXTINF:-1,720 UNIVERSAL PELICULAS 
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:0,HD ARIRANG
 http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
-#EXTINF:-1,HD TV MAS México
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:0,HD?  tvn Chile
+#EXTINF:0,85% HD  tvn Chile
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8?
-#EXTINF:-1,HD? TVN Chile
+#EXTINF:-1,100% HD TVN Chile
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b500000.m3u8
-#EXTINF:-1,Telemundo / CanaldelasEstrellas Mex.
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
-#EXTINF:-1,VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+#EXTINF:-1,40% VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/playlist.m3u8
-#EXTINF:-1,TV5 LINARES CHILE
+#EXTINF:-1,Option#1 480p TV5 LINARES CHILE
 http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8
+#EXTINF:-1,Option#2 480p TV5 LINARES CHILE
+rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1,EL PINGUINO TV CANAL 4 PUNTA ARENAS CHILE
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
 #EXTINF:-1,TV PATAGONIA PUNTA ARENAS OPTION 2
 http://69.164.193.177:1935/live/myStream/sat.m3u8
-#EXTINF:-1, Canal 2 Valle Tv San Felipe
+#EXTINF:-1,70% Canal 2 Valle Tv San Felipe
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
-#EXTINF:-1, Canal 5 Linares
-rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1,El Pinguino Tv Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1,Patagonia Tv Punta Arenas
 http://69.164.193.177:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,HonduVision
 http://iphone-streaming.ustream.tv/ustreamVideo/20555006/streams/live/playlist.m3u8?
-#EXTINF:-1,Canal 2 Valparaiso
+#EXTINF:-1,60% Canal 2 Valparaiso
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?
-#EXTINF:-1,Hot Hot Hot
-http://www.djing.com/tv/hothothot.m3u8?
 #EXTINF:-1,Ibiza  Music
 http://www.djing.com/tv/ibiza.m3u8?
 #EXTINF:-1,Chile - EL PINGUINO TV CANAL 4 PUNTA ARENAS
@@ -636,8 +646,6 @@ rtmp://199.217.118.90:1935/smotv/stream
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 #EXTINF:-1,COL:Canal Capital
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1,Esp:Telemadrid
-http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
 #EXTINF:-1,Esp:ANDALUCIA TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 #EXTINF:-1,Esp:TV GALICIA
@@ -652,11 +660,11 @@ rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cd
 rtmp://c5n.stweb.tv:1935/c5n/live
 #EXTINF:-1,Chil:TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
-#EXTINF:-1,Chil:VTV2
+#EXTINF:-1,75% Chil:VTV2
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
-#EXTINF:-1,Dom:Teleantillas Canal 2
+#EXTINF:-1,Option#1 Dom:Teleantillas Canal 2
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
-#EXTINF:-1,Dom:TELEANTILLAS 2 HD
+#EXTINF:-1,Option#2 Dom:TELEANTILLAS 2 HD
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1,Pan:SERTV 11
 rtmp://216.224.177.132/live/sertv
@@ -678,8 +686,6 @@ http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
 http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8
 #EXTINF:-1,Brasil:MANÁ SAT 
 http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8
-#EXTINF:-1,CHILE:La Red HD 720
-http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u
 #EXTINF:-1,ARG:CANAL 13 ARGENITNA rtsp
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1,Teleantillas Canal 2
@@ -868,6 +874,92 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?
 #EXTINF:-1,Teledunamis (Religion)
 http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?
+#EXTINF:-1,Radio y Televisión de Querétaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8?
+#EXTINF:-1,Canal 10 España
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1,Canal 53 UANL TV
+mms://streaming.uanl.mx/canal53bandaancha
+#EXTINF:-1,Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8#
+#EXTINF:-1,CB Televisión Michoacán
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+#EXTINF:-1,Televisión La Luz
+http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
+#EXTINF:-1,HD Telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1,Wait 5sec Canal 4 Jujuy
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+#EXTINF:-1,Canal 41 Mar de Plata
+rtmp://painel.serveron.com.br/8172/8172
+#EXTINF:-1,Canal 9 Salta
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8?
+#EXTINF:-1,Aguascalientes TV
+http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8?
+#EXTINF:-1,CBA 24N
+http://iphone-streaming.ustream.tv/uhls/11678041/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,SER TV Panamá
+rtmp://216.224.177.132/live/sertv
+#EXTINF:-1,RTG
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/chunklist_w1512230238.m3u8?
+#EXTINF:-1,Telemax Mexico
+http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+#EXTINF:-1,TDT Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
+#EXTINF:-1,Sistema Michoacano
+http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8?
+#EXTINF:-1,AlcanceTV Religion
+http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1282066740_b1000000.m3u8?
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,El Correo TV
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8?
+#EXTINF:-1,Canal TRO
+http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26
+#EXTINF:-1,Quince TV Zacatecas México
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8#
+#EXTINF:-1,CB24 Noticias Costarica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Sulavision
+http://162.212.176.83:8080/sulavision.m3u8?
+#EXTINF:-1,Canal 33 El Salvador
+http://iphone-streaming.ustream.tv/ustreamVideo/4811076/streams/live/playlist.m3u8#
+#EXTINF:-1,Teleceiba
+http://162.212.176.83:8080/teleceiba.m3u8#
+#EXTINF:-1,Amarillo TV Ecuador
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8?
+#EXTINF:-1,EITB
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8?
+#EXTINF:-1,1 Arab
+http://95.81.165.21/5958/index.m3u8
+#EXTINF:-1,Wait 7sec CNA Arab
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:-1,HD Argentina - C5N Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1,HD CANAL 13 ARGENITNA
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,Argentina - Canal Rural 1
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:-1,50% Chile - VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1,TOMATO TV Chino
+rtmp://etomatofms2.hscdn.com/etomato.dvr/mp4:etomato
+#EXTINF:-1,Argentina - CANAL RURAL 3
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3
+#EXTINF:-1,Chile - CAMARA DE DIPUTADOS
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+#EXTINF:-1,Wait 6sec Mexico - TVMas Mexico
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,C5N noticias Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live_media
+#EXTINF:-1,Argentina - CANAL RURAL 2
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
+#EXTINF:-1,Argentina - Quiero Musica mms
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,Rep. Domin. -Teleantillas Canal 2
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
+#EXTINF:-1,Rep. Domin. -Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
 
 
 
@@ -979,388 +1071,6 @@ http://0.0.0.0:1234
 
 
 
-
-#EXTINF:-1, History
-http://latino-webtv.ml/live/353.m3u8
-#EXTINF:-1,Tyc Sports Argentina
-http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/chunklist-b2656000.m3u8
-#EXTINF:-1,Canal 9 Argentina
-http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
-#EXTINF:-1,DxTV  Argentina
-http://186.33.227.193/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMTYgMTo1MTo0OSBQTSZoYXNoX3ZhbHVlPTJxaDNvYU9aTU4yTjJkUTNVZ1lsUWc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:-1,TVP Argentina
-http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist.m3u8
-#EXTINF:-1,Aljazeera
-http://live-823.gv2.edge.filmon.com/live/4.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3cdae03c1adef360720df0dc486a506f0ce120e16fe6f7240ddf49bc3a981c53ff1f3c069fdac3817b27352a3f9823f465e671ea756e2cb0e8e6bd90f70b10db7a51dd663adb4e26e8d1cfe0641e3cf5f000bdb4ee72eebd436fc28ffcfcd804023e0c165eca65d1ade1428a4cb3b126d9dc875d46f06d6ce
-#EXTINF:-1,CTV
-http://live-1130.la2.edge.filmon.com/live/2053.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3cdae03c1adef3607fb3a0812a3642186a858e60517f2be3c312cc3e24fc9d8d56a7ed8e7026afa403377afd9befc9d3a7e7ed730e96407e0fec59635baac575828a1e8b322911f3be7f839802cdb63852756d3051e4929a3bbffc9d2b194a01433be140071baad903649817c29bf9de8faee9c81d0931692
-#EXTINF:-1,TYC Sports
-http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/chunklist-b2656000.m3u8
-#EXTINF:-1,National Geographic Channel (Day 2)
-http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1187561661&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTYgMTo1MTo0MCBBTSZoYXNoX3ZhbHVlPXhLcXUwNS91bGc5SnNvbmF3ekVFVnc9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
-#EXTINF:-1, NATIONAL GEOGRAPHIC CHANNEL (Day1)
-http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1658982456&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMTYgMTozMTozOSBBTSZoYXNoX3ZhbHVlPVpiR2FWVTlGaVBXdk1JZWc5aWw2YUE9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
-#EXTINF:-1, Bein Sports
-http://93.190.141.71:1935/live/beinusa.stream/playlist.m3u8?wowzasessionid=240673786&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTYgMjo0MTozOSBBTSZoYXNoX3ZhbHVlPXhCQWh2Z1M2eXF1WmNGdkFua3A2U2c9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
-#EXTINF:-1,Food Network
-http://live-1180.gv2.edge.filmon.com/live/20.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad691fcc8c0db02eb900566f859f2406e624e4f9f674c7ef0040fb735a854b0b0ef18271c114e9b493302c8ad8f6f100b5d85d44f7794103533c1046bee1c55758261834eb17d0fd8870910fd5a58ee63997fe442fe0401ee9933688aa845507b314a1ffb45e6ed7d3c924e37c9e1a9366410
-#EXTINF:-1,Animal Planet (Day1)
-http://93.190.141.71:1935/live/ap.stream/playlist.m3u8?wowzasessionid=270615265&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMTYgNDoyMTozOCBBTSZoYXNoX3ZhbHVlPUxLcExyTGZBa3FNNGdGMUx6M0l5Y0E9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
-#EXTINF:-1,Animal Planet (Day2)
-http://93.190.141.71:1935/live/ap.stream/playlist.m3u8?wowzasessionid=2138833200&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTYgMjowMTozOSBBTSZoYXNoX3ZhbHVlPXkrdzJmUmJ4bHlsNHFtb2xVdnNsQmc9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
-#EXTINF:-1, WWF!
-http://crichd.tv/update/wwe.php?width=700&height=480
-#EXTINF:-1, TSN!
-http://cricfree.sx/update/tsn1.php
-#EXTINF:-1, BBC1
-http://live-1183.gv2.edge.filmon.com/live/14.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad6919cc850594290378e0aeea78bd88cfa62e04fe2540a1483a274fbacd8261491e37d34c65c70a12fd3d227876dfe05b6e63422817265373a6a51d710df3b17a5c9d162b6dc0cc4e9b7a73574f964f5b04128f3c5dbcf139ad54c6c14c1e3e007dcd7c80dfe303ce789bcffa485efcdc6f6
-#EXTINF:-1, BBC2
-http://live-1183.gv2.edge.filmon.com/live/25.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad69173075f2cc61f750f6c83df6856cec95639e8f39c22edd671dbcda48e1684b25085294d18eea1180eacd9c4faa1c85597b7acc0a52136df139b4a36504b774dae6842b7cb8d189cc25c59885a5c6147be31a951fe84573d893eb6d07c329d9c0d472bad8d7421b443e225ee70f4897090
-#EXTINF:-1, BBC4
-http://live-1183.gv2.edge.filmon.com/live/103.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad6917f1e2f8f99848ab83e39966ef834f9efc137a6ea740643c23fc9644f74b4e7eefa97697ed408bb87b0fefc5537b181584e8a15a1687fb0e4d8d4fcdf54207fb1e4f2a5cea92b2e4ba4793bee5aac1468bc751fb34caf65a441be716e5645eda68eefa0eeea7274694ff694160a6ec80d
-#EXTINF:-1, BBC Sport
-http://live-1183.gv2.edge.filmon.com/live/14.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad6916380cc5e0e66755c7c38ae1883dfc01134cce41d08b2c9d4f22e254a4ac4537e259b705a073e993d22316bebd4cd9df776b272f68c46d35a9ae4e83ca8ec8338816fd8673ba13507a4712d4d17ba62ca40b2c6bf6b40fe422267bbca6825e099d1382be897808a62fed1956d724ebfe7
-#EXTINF:-1,Horror
-http://live-823.gv2.edge.filmon.com/live/836.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad691a82bb9e73b1520744cbf34633e8079767cd8f5b85bdb3b5fe0d80676f033dfd60c2d6a17997b94c92bbfe46180b637941775a673074f3a4b08bb97680b1f55bb964cefdaf386285f149a1d3421757e0e05e708c9e3ccc2fea68db945b89cd60a2fd3a46afebe39f1ce42884f577906b6
-#EXTINF:-1, BBC World News
-http://live-1192.gv2.edge.filmon.com/live/27.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad69184c90eb99b44b17447b18d25435acd2e027e5cc6e31efef35967409ff72c4770661caca3e76df0f7f161f3dae90f3662b82254ae4f416e57d237bb02a3a9309a385ad9da21c076e2dcaf99124397283e7b28430629feb6349a49a0b7ebfd4c419d3bca7a1939160f0dc849f0ebbdd0d0
-#EXTINF:-1,Adult Swim
-http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Poker
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:-1,Film 
-http://live-823.gv2.edge.filmon.com/live/13.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad69187535b178347c7f538ff392c0a7e48fddbfbb3145081948c82eda4af37fad2df54bb7e8213b6cc9b992e796fe29b5773516057ed310621ec8516d82df5ea0dc7571f012f2eeeaffcb2343023c56b247022170a58a636646d395310d29428a5f7f0af251ca05057d9d86cfd68ba989cda
-#EXTINF:-1,TV5 France
-http://live-1183.gv2.edge.filmon.com/live/517.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fa23e2ec37d98ba3d18c917e27785677da8890353777f34a898a5fbceeb90a4aa7bf7425d96bf15082fee56c4e8e70afc3892e48431aedb15242a37b565730e13049ebbd3b1ab3e0833639744370d71d3ec5e9b64b20da6314bad45d4090d700d1e28c744df6b7030f57bbb67acd2fd0059f3b9f94b92684
-#EXTINF:-1, Animal Planet
-http://www.ustream.tv/embed/12762028?ub=85a901&lc=85a901&oc=ffffff&uc=ffffff&v=3&wmode=direct&autoplay=true
-#EXTINF:-1, Arte HD
-http://live-1192.gv2.edge.filmon.com/live/1729.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ad85f5bd025ad6916cef0b5c0117289d6eef889d476a55d92ece033acbcaf70cd1d333d500f5527521c22ae2032f03bcf9bd9ac300671aa795cc0fff24d735b4a0b8dfe5f2d96fef6714cc6a4bdf739ec851fe9166d94cbb1eaee93fc9f4f7e32880f94d0718fd8743c91be4736dd7344c76b750bccab053
-#EXTINF:-1, National Geographic Channel
-http://93.190.141.71:1935/live/natgeo.stream/playlist.m3u8?wowzasessionid=1658982456&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMTYgMTozMTozOSBBTSZoYXNoX3ZhbHVlPVpiR2FWVTlGaVBXdk1JZWc5aWw2YUE9PSZ2YWxpZG1pbnV0ZXM9MjA%3D
-#EXTINF:-1, TRU Tv HD
-http://live-1183.gv2.edge.filmon.com/live/3707.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3472d64521f0439c4f582f38a44dc91b0d87d8d580d8228747cd7cc896ea6b499e3034e455b8326671acb6c417d664129e74ac48efa83c4b76c50d8312edbb55ac206b54b23ff50294e9049c85164064657abb6f549276b10d37908d8febea9429018b146c3a498ee58542ffe0016c3b03709b3094376211c
-#EXTINF:-1,HD PBS WIS !
-http://livestream.com/accounts/13897710/events/4153577/player?autoPlay=true&mute=false
-#EXTINF:-1, MLS Live envents
-http://wizhdsports.com/live/stream5.php
-#EXTINF:-1, NBC Sports !
-http://wizhdsports.com/live/stream4.php
-#EXTINF:-1,HD Travel Channel
-http://live-823.gv2.edge.filmon.com/live/842.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d33bf465040bcbdead9de4b0afbf3ecfc814cb9172e1f642ea8923dd18769ff21a703b53217600ef216738689c0db4ee769b17df0d211f8b3084ddda46aa84e209fab0266b9ff53a93a5ab8cc47957b95f25a896b2edbc05488d2dd3263c52003a5894d808d118068719a196d222b796458bb6b0fe6c725a40
-#EXTINF:-1,LCN
-rtmp://cp39414.live.edgefcs.net/live/lcn1@9753/ playpath=lcn1@9753 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/lcn.html
-#EXTINF:-1, Test SportsNet World
-rtmp://80.82.78.29:443/liverepeater playpath=17  swfUrl=http://popeoftheplayers.pw/atdedead.swf
-#EXTINF:-1, TVA Sport
-rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com/Ö/FlashMediaPlaybÖ/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
-#EXTINF:-1,Bein 8 Test sport
-http://live01.pushpublish.tv/mylive/bein8/playlist.m3u8
-#EXTINF:-1,Bein 1 Test sport
-http://85.132.67.123:1935/live/be01/playlist.m3u8
-#EXTINF:-1,Bein 7 Test sport
-http://live01.pushpublish.tv/mylive/bein7/playlist.m3u8
-#EXTINF:-1,Bein 2 Test sport
-http://85.132.67.123:1935/live/be02/playlist.m3u8
-#EXTINF:-1,Radio y Televisión de Querétaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8?
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Hispan TV
-rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4×3-SDh
-#EXTINF:-1,Canal 10 España
-rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1,Canal 53 UANL TV
-mms://streaming.uanl.mx/canal53bandaancha
-#EXTINF:-1,TV UNAM
-http://livestream-f.akamaihd.net/12380647_1177572_673392b7_1_446@9887?v=3.6.0&fp=WIN+17%2C0%2C0%2C169&r=MKNON&g=PHPPJGLUEOWJ
-#EXTINF:-1,Canal Capital
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8#
-#EXTINF:-1,Canal 28 Chihuahua
-http://web.xnet.mx:1935/xnetn/canal283/playlist.m3u8
-#EXTINF:-1,Promovisión Canal 10
-http://www.promovision.mx:1935/live/tvlive2/playlist.m3u8
-#EXTINF:-1,CB Televisión Michoacán
-http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
-#EXTINF:-1,Televisión La Luz
-http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
-#EXTINF:-1,Sevilla TV
-http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8#
-#EXTINF:-1,Canal 27 Costa Rica
-http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8#
-#EXTINF:-1,Telecaribe
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1,ATB Bolivia
-http://iphone-streaming.ustream.tv/ustreamVideo/15914111/streams/live/iphone/playlist.m3u8#
-#EXTINF:-1,Canal 7Jujuy-Telefe
-mms://200.43.187.111/canal7
-#EXTINF:-1,Canal 4 Jujuy
-rtmp://streaming.wirenetserver.com.ar/canal4/live_1
-#EXTINF:-1,Canal 41 Mar de Plata
-rtmp://painel.serveron.com.br/8172/8172
-#EXTINF:-1,Telejunin
-rtmp://65.254.42.234/telejunin/telejunin
-#EXTINF:-1,América TV Argentina
-http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8#
-#EXTINF:-1,Canal 3 Trelew-Argentina
-rtmp://198.49.76.226:1935/inovasd/inovasd
-#EXTINF:-1,Canal 9 Salta
-http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8?
-#EXTINF:-1,Aguascalientes TV
-http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8?
-#EXTINF:-1,Canal 15 Todo Noticias
-http://iphone-streaming.ustream.tv/uhls/610326/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,Canal 6 Honduras
-http://162.212.176.83:8080/canal6.stream.m3u8?
-#EXTINF:-1,CBA 24N
-http://iphone-streaming.ustream.tv/uhls/11678041/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,SER TV Panamá
-rtmp://216.224.177.132/live/sertv
-#EXTINF:-1,RTG
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/chunklist_w1512230238.m3u8?
-#EXTINF:-1,Telemax Mexico
-http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1,Trecevisión Yucatan
-http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
-#EXTINF:-1,TDT Tlaxcala
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
-#EXTINF:-1,Canal 13
-http://192.99.9.67:1935/8076/8076/playlist.m3u8
-#EXTINF:-1,Sistema Michoacano
-http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8?
-#EXTINF:-1,AlcanceTV
-http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1282066740_b1000000.m3u8?
-#EXTINF:-1,5tv
-http://50.7.29.178:1935/gnode06/videognode06/playlist.m3u8
-#EXTINF:-1,Tele 10
-http://85.17.122.248:1935/live/radioaztlan/playlist.m3u8?
-#EXTINF:-1,XHKG TV Canal 2 Tepic
-http://odna.octoshape.net/b4a6s7q9/cds/smil:ch1/playlist.m3u8?
-#EXTINF:-1,Globovision
-http://stream-ec.vty.dmcdn.net/14/dm/1/xio7e2/live.isml/events(live-1429738627)/live-audio=128000-video=1024000./playlist.m3u8
-#EXTINF:-1,IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:-1,El Correo TV
-http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8?
-#EXTINF:-1,Clubbing TV
-http://204.107.26.252:1935/live/691.high.stream/BratuMarian.m3u8?
-#EXTINF:-1,Canal 11 Zulia/Venezuela
-rtmp://edge.wms28.lorini.net/canalonce/canalonce
-#EXTINF:-1,Canal TRO
-http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26
-#EXTINF:-1,Quince TV Zacatecas México
-http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8#
-#EXTINF:-1,KW TV México
-http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
-#EXTINF:-1,TLnovelas
-http://45.55.247.223:8080/Tl3n0v3las/index.m3u8
-
-#EXTINF:-1,HBO HD
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8?
-#EXTINF:-1,HBO 2
-http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
-#EXTINF:-1,Fight Club
-http://46.61.226.18/hls/CH_FIGHTCLUB/bw1500000/variant.m3u8
-#EXTINF:-1,Canal 3 El Super Canal Guatemala
-http://72.46.226.61/live01/canal31/playlist.m3u8#
-#EXTINF:-1,CB24 Noticias
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Sulavision
-http://162.212.176.83:8080/sulavision.m3u8?
-#EXTINF:-1,Canal 33 El Salvador
-http://iphone-streaming.ustream.tv/ustreamVideo/4811076/streams/live/playlist.m3u8#
-#EXTINF:-1,Teleceiba
-http://162.212.176.83:8080/teleceiba.m3u8#
-#EXTINF:-1,Viviral TV
-http://xviboraltvstreamx.api.channel.livestream.com/3.0/playlist.m3u8#
-#EXTINF:-1,Cañar TV
-http://ecuastreamhd.com:1935/canartv/canartv/playlist.m3u8
-#EXTINF:-1,Amarillo TV Ecuador
-http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8?
-#EXTINF:-1,SNT Paraguay
-rtmp://199.168.116.13/app/ramtvps-channel
-#EXTINF:-1,Canal del Vino
-http://evo.eltelon.com:443/live/canaldelvinotv/playlist.m3u8?
-#EXTINF:-1,Independencia TV
-http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
-#EXTINF:-1,Cubavision
-http://149.11.34.78/live/cubavision.stream/.m3u8?
-#EXTINF:-1,EITB
-http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8?
-#EXTINF:-1,Canal 66 Mexicali
-http://odna.octoshape.net/p9b7g9i7/cds/smil:mexicali/chunklist_b250000.m3u8?
-#EXTINF:-1,Sesion Continua TV
-http://videos3.lasteles.com/live/sesioncontinuatv.stream/playlist.m3u8?
-#EXTINF:-1,Deutsche Welle
-http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
-
-
-
-																	345634563456345634
-
-
-
-***** ARABE  ***************************************************************
-
-
-
-#EXTINF:-1,1 Arab (Music)
-http://95.81.165.21/5958/index.m3u8
-#EXTINF:-1,alquraan Arab
-http://162.212.176.83:8080/map-alquraan.stream.m3u8
-
-#EXTINF:-1,CNA
-rtmp://str81.creacast.com:80/cna/live.sdp
-
-#EXTINF:-1,USA:Ebru TV
-http://204.107.26.252:1935/live/914.high.stream/HasBahCa.m3u8
-
-#EXTINF:-1, Al Aoula
-http://162.212.176.107:1935/al_aoula_maroc/globaltv-al_aoula_maroc.stream/playlist.m3u8
-#EXTINF:-1, Al Riyadiya
-http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/playlist.m3u8
-
-#EXTINF:-1, Arrabia
-http://162.212.176.107:1935/arrabia/globaltv-arrabia.stream/playlist.m3u8
-
-#EXTINF:-1, Assadisa
-http://162.212.176.107:1935/assadissa/globaltv-assadissa.stream/playlist.m3u8
-
-
-
-**************************LATINO *************************************8
-
-#EXTINF:-1,Dominik-Telefuturo Canal 23
-http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
-
-#EXTINF:-1,Argentina - Canal 12 – Córdoba, Argentiina
-http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-
-
-#EXTINF:-1,MYJAVA
-rtmp://s1.media-planet.sk:80/live/myjava1
-
-
-#EXTINF:-1,Argentina - C5N Argentina
-rtmp://c5n.stweb.tv:1935/c5n/live
-
-
-#EXTINF:-1,Argentina - CANAL 13 ARGENITNA
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-
-
-#EXTINF:-1,Chile - @C9 BIO BIO TV CONCEPCION
-http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
-
-#EXTINF:-1,Argentina - Canal Rural 1
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
-
-#EXTINF:-1,Chile - VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
-
-#EXTINF:-1,Chile - @AYSEN TV
-http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
-
-
-***************CHINOIS   *********************************
-
-
-#EXTINF:-1,HUZHOU NEWS mms wmv
-mms://live.hugd.com/xwzh.wmv
-
-#EXTINF:-1,HUZHOU ENTERTAİNMENT CHANNEL mms wmv
-mms://live.hugd.com/whyl.wmv
-
-
-
-#EXTINF:-1,TOMATO TV
-rtmp://etomatofms2.hscdn.com/etomato.dvr/mp4:etomato
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Kanada - Savoir
-rtsp://stream2.canal.qc.ca/enOndes_haut_debit
-
-#EXTINF:-1,Argentina - CANAL RURAL 3
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3
-
-#EXTINF:-1,Chile - CAMARA DE DIPUTADOS
-rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
-
-#EXTINF:-1,Mexico - TVMas Mexico
-rtmp://50.7.98.234/rtv/videortv
-
-#EXTINF:-1,Latino - C5N noticias
-rtmp://c5n.stweb.tv:1935/c5n/live_media
-
-#EXTINF:-1,Argentina - CANAL RURAL 2
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
-
-#EXTINF:-1,Argentina - Quiero Musica mms
-mms://200.42.92.6:1755/qmusica
-
-#EXTINF:-1,Latino - hispantv
-rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
-
-#EXTINF:-1,HUZHOU PUBLİC CHANNEL mms wmv
-mms://live.hugd.com/ggms.wmv
-
-#EXTINF:-1,Dominik-Teleantillas Canal 2
-http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
-
-#EXTINF:-1,Dominik-Telesistema Canal 11
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-
-#EXTINF:-1,MEXICO - AZTECA NOTICIAS
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
 #EXTINF:-1,Mexico - Radio y Televisión Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
@@ -1493,8 +1203,7 @@ rtmp://87.106.220.67/live/myStream_2
 http://195.22.19.183:1935/tven/tven3/hasbahca.m3u8
 
 
-#EXTINF:-1,Spain:LA RED EN VIVO
-http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+
 
 #EXTINF:-1,Spain:VIT Channel 2
 rtmp://87.106.219.140/live/myStream_2
@@ -2494,6 +2203,19 @@ http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 
 
 
+
+#EXTINF:-1,Tyc Sports Argentina
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/chunklist-b2656000.m3u8
+#EXTINF:-1,TVP Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist.m3u8
+#EXTINF:-1,TYC Sports
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/chunklist-b2656000.m3u8
+#EXTINF:-1, WWF!
+http://crichd.tv/update/wwe.php?width=700&height=480
+#EXTINF:-1, TSN!
+http://cricfree.sx/update/tsn1.php
+#EXTINF:-1, NBC Sports !
+http://wizhdsports.com/live/stream4.php	
 
 
 
