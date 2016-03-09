@@ -509,7 +509,7 @@ http://0.0.0.0:1234
 #EXTINF:-1,HD Telemundo/CanaldelasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1, UNIVISION
-https://video04-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
+http://videoplayer.vodobox.com/vodobox_player.php?vid=https%3A%2F%2Fvideo04-lax.streamup.com%2Fapp%2Funivision2chivas_69s-stream_aac%2Fplaylist.m3u8&amp;img=&amp;play=
 #EXTINF:-1, HD Canal de las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1,HD LATIN MOVIES
