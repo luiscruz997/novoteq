@@ -5,6 +5,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,CPAC Français
  http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+ #EXTINF:-1,Aljazeera
+ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8?dev=website
  #EXTINF:-1,ICI Radio-Canada – Québec – CBVT-DT
  http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
  #EXTINF:-1,ICI Radio-Canada – Ottawa-Gatineau – CBOFT-DT
