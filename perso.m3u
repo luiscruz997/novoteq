@@ -520,7 +520,7 @@ http://edge-41-us.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/pla
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,HD ANTENA 3 España
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,HD TV Chile
+#EXTINF:-1,HD TVN Chile
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:-1,Option#1 HD LA RED  Chile
 rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/
