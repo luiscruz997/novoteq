@@ -4,11 +4,13 @@ http://0.0.0.0:1234
 #EXTM3U
 #EXTINF:-1,CPAC Français
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/photos/aJucuCGcQep1EMLa6" group-title="Mexico", Canal de las Estrellas
+
+
+#EXTINF:-1 tvg-logo="http://puu.sh/q8pzG/2e262490ec.png" group-title="Mexico", Canal de las Estrellas#1
 http://live.tvplayerlatino.com/lista_remota/src4/jWWnC.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/photos/RrFxNb8D8fzFxoqe6" group-title="Mexico",Canal de las Estrellas -2 Horas
+#EXTINF:-1 tvg-logo="<iframe src="https://drive.google.com/file/d/0B3ESb7xEgOKXeWhfNVhKRWlKNkU/preview" width="640" height="480"></iframe>" group-title="Mexico",Canal de las Estrellas #2 
 http://live.tvplayerlatino.com/lista_remota/src1/cest2.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdZH/663a3e814f.png" group-title="Mexico", Canal de las Estrellas 2
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdZH/663a3e814f.png" group-title="Mexico", Canal de las Estrellas #3
 http://live.tvplayerlatino.com/lista_remota/src1/cans2.m3u8
 
 
