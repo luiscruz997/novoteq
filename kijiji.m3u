@@ -3,8 +3,16 @@
 http://0.0.0.0:1234
 #EXTM3U
 
+
 #EXTINF:-1,CPAC Français
  http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+#EXTINF:-1,Canal de las Estrellas
+rtp://@239.0.8.193:8208
+#EXTINF:-1, CANAL DE LAS ESTRELLAS 2
+http://mojtube.com@200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+#EXTINF:-1, [136] Caracol TV Internacional
+rtp://@239.0.7.129:8208
+
  #EXTINF:-1,Aljazeera
  http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8?dev=website
  #EXTINF:-1,ICI Radio-Canada – Québec – CBVT-DT
