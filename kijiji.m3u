@@ -6,7 +6,7 @@ http://0.0.0.0:1234
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://puu.sh/q8pzG/2e262490ec.png" group-title="Mexico", Canal de las Estrellas#1
+#EXTINF:-1 tvg-logo="http://imageshack.com/a/img921/8902/KmLCh4.jpg" group-title="Mexico", Canal de las Estrellas#1
 http://live.tvplayerlatino.com/lista_remota/src4/jWWnC.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/2ugf391.jpg" group-title="Mexico",Canal de las Estrellas #2 
 http://live.tvplayerlatino.com/lista_remota/src1/cest2.m3u8
