@@ -2,16 +2,31 @@
 #EXTINF:-1,[COLOR yellow]***1year free; after contact NovoteQ.com***[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
-
-
 #EXTINF:-1,CPAC Français
- http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
-#EXTINF:-1,Canal de las Estrellas
-rtp://@239.0.8.193:8208
-#EXTINF:-1, CANAL DE LAS ESTRELLAS 2
-http://mojtube.com@200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
-#EXTINF:-1, [136] Caracol TV Internacional
-rtp://@239.0.7.129:8208
+http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+
+
+
+
+#EXTINF:0,TELEMUNDO 39 
+https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8 
+#EXTINF:0,Estrella TV 
+https://video05-lax.streamup.com/app/vic_manz02s-stream/playlist.m3u8 
+#EXTINF:0,Azteca US 
+https://video05-lax.streamup.com/app/vic_manzs-stream/playlist.m3u8 
+#EXTINF:0,UNIVISION 23 
+https://video05-lax.streamup.com/app/turbo-maxs-channel/playlist.m3u8 
+#EXTINF:0,UNIVISION 
+https://video05-lax.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8 
+#EXTINF:0,Telefe 
+https://video05-lax.streamup.com/app/beto_3s-channel/playlist.m3u8
+
+
+
+
+
+
+
 
  #EXTINF:-1,Aljazeera
  http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8?dev=website
