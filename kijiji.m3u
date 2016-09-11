@@ -4,33 +4,19 @@ http://0.0.0.0:1234
 #EXTM3U
 #EXTINF:-1,CPAC Français
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
-
-
-
-#EXTINF:0,TELEMUNDO 39 
-https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
-#EXTINF:0,Telemundo Ch 39 Dallas USA
- http://167.114.159.155:1935/app/chivasss69s-channel/playlist.m3u8
-#EXTINF:0,Estrella TV 
-https://video05-lax.streamup.com/app/vic_manz02s-stream/playlist.m3u8 
-#EXTINF:0,Azteca US 
-https://video05-lax.streamup.com/app/vic_manzs-stream/playlist.m3u8 
-#EXTINF:0,UNIVISION 23 
-https://video05-lax.streamup.com/app/turbo-maxs-channel/playlist.m3u8 
-#EXTINF:0,UNIVISION 
-https://video05-lax.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8 
-#EXTINF:0,Telefe 
-https://video05-lax.streamup.com/app/beto_3s-channel/playlist.m3u8
-#EXTINF:-1 group-title=îLATINOSî,canal de las estrellas
-http://ift.tt/1HljrGN
-#EXTINF:-1, CANAL DE LAS ESTRELLAS
-http://mojtube.com@200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdZH/663a3e814f.png" group-title="Mexico", Canal de las Estrellas
+#EXTINF:-1 tvg-logo="https://goo.gl/photos/aJucuCGcQep1EMLa6" group-title="Mexico", Canal de las Estrellas
 http://live.tvplayerlatino.com/lista_remota/src4/jWWnC.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/q8pzG/2e262490ec.png" group-title="Mexico",Canal de las Estrellas -2 Horas
+#EXTINF:-1 tvg-logo="https://goo.gl/photos/RrFxNb8D8fzFxoqe6" group-title="Mexico",Canal de las Estrellas -2 Horas
 http://live.tvplayerlatino.com/lista_remota/src1/cest2.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdZH/663a3e814f.png" group-title="Mexico", Canal de las Estrellas 2
 http://live.tvplayerlatino.com/lista_remota/src1/cans2.m3u8
+
+
+http://puu.sh/q8pzG/2e262490ec.png
+http://puu.sh/q8pzG/2e262490ec.png
+
+
+https://goo.gl/photos/aJucuCGcQep1EMLa6
 
 
 
